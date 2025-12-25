@@ -23,16 +23,16 @@
           <mxGeometry x="-80" y="120" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g819Jn2-5BLW5gRTyG-O-18" value="Roger: 确定工作方法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="200" width="100" height="40" as="geometry" />
+          <mxGeometry x="-80" y="200" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g819Jn2-5BLW5gRTyG-O-19" value="Xian: 列出工作计划，开始执行" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-86" y="240" width="100" height="40" as="geometry" />
+          <mxGeometry x="-80" y="280" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g819Jn2-5BLW5gRTyG-O-20" value="周三 Wednesday" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="120" y="40" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g819Jn2-5BLW5gRTyG-O-21" value="Xian: 报告工作状况，解决问题" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="94" y="120" width="100" height="40" as="geometry" />
+          <mxGeometry x="120" y="120" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g819Jn2-5BLW5gRTyG-O-22" value="Roger: 检查是否按计划执行" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="94" y="180" width="100" height="40" as="geometry" />
