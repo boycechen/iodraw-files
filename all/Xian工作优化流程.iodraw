@@ -4,16 +4,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qHAgKS5gugYDtAauLkA3-1" value="目标不清楚" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="qHAgKS5gugYDtAauLkA3-1" value="目标不清楚" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="120" y="120" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qHAgKS5gugYDtAauLkA3-2" value="没思考清楚就开始做" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="qHAgKS5gugYDtAauLkA3-2" value="没思考清楚就开始做" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="120" y="180" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PNkj3nJ6PbV4wqCSuqpz-1" value="Xian" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="120" y="40" width="240" height="60" as="geometry" />
+          <mxGeometry x="120" y="40" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PNkj3nJ6PbV4wqCSuqpz-2" value="报告逻辑混乱" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="PNkj3nJ6PbV4wqCSuqpz-2" value="报告逻辑混乱" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="120" y="240" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
