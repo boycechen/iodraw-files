@@ -5,15 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="g819Jn2-5BLW5gRTyG-O-1" value="Roger&lt;div&gt;工作安排&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="300" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="g819Jn2-5BLW5gRTyG-O-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="g819Jn2-5BLW5gRTyG-O-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="490" as="sourcePoint" />
-          </mxGeometry>
+          <mxGeometry x="120" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g819Jn2-5BLW5gRTyG-O-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="-80" y="280" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="g819Jn2-5BLW5gRTyG-O-6" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="460" width="120" height="60" as="geometry" />
