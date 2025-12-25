@@ -11,10 +11,10 @@
           <mxGeometry x="-280" y="120" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g819Jn2-5BLW5gRTyG-O-14" value="Xian: 复述项目背景、工作目标" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-266" y="180" width="100" height="40" as="geometry" />
+          <mxGeometry x="-280" y="200" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g819Jn2-5BLW5gRTyG-O-15" value="Xian: 思考达成方法，整理文档" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-266" y="240" width="100" height="40" as="geometry" />
+          <mxGeometry x="-280" y="280" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g819Jn2-5BLW5gRTyG-O-16" value="周二 Tuesday" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-80" y="40" width="160" height="60" as="geometry" />
