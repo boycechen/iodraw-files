@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="g819Jn2-5BLW5gRTyG-O-12" value="周一 Monday" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="40" width="140" height="60" as="geometry" />
+          <mxGeometry x="-280" y="40" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g819Jn2-5BLW5gRTyG-O-13" value="Roger&lt;div&gt;介绍项目背景、工作目标&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-280" y="120" width="160" height="40" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="-266" y="240" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g819Jn2-5BLW5gRTyG-O-16" value="周二 Tuesday" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-86" y="40" width="140" height="60" as="geometry" />
+          <mxGeometry x="-80" y="40" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g819Jn2-5BLW5gRTyG-O-17" value="Xian: 报告工作方法/方案、问题、资源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-86" y="120" width="100" height="40" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="-86" y="240" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g819Jn2-5BLW5gRTyG-O-20" value="周三 Wednesday" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="94" y="40" width="140" height="60" as="geometry" />
+          <mxGeometry x="120" y="40" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g819Jn2-5BLW5gRTyG-O-21" value="Xian: 报告工作状况，解决问题" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="94" y="120" width="100" height="40" as="geometry" />
