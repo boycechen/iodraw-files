@@ -7,7 +7,7 @@
         <mxCell id="g819Jn2-5BLW5gRTyG-O-12" value="周一 Monday" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-266" y="40" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g819Jn2-5BLW5gRTyG-O-13" value="Roger: 介绍项目背景、工作目标" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="g819Jn2-5BLW5gRTyG-O-13" value="Roger&lt;div&gt;介绍项目背景、工作目标&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-280" y="120" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g819Jn2-5BLW5gRTyG-O-14" value="Xian: 复述项目背景、工作目标" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -53,9 +53,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g819Jn2-5BLW5gRTyG-O-28" style="endArrow=classic;html=1;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="g819Jn2-5BLW5gRTyG-O-14" target="g819Jn2-5BLW5gRTyG-O-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="g819Jn2-5BLW5gRTyG-O-29" style="endArrow=classic;html=1;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="g819Jn2-5BLW5gRTyG-O-15" target="g819Jn2-5BLW5gRTyG-O-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g819Jn2-5BLW5gRTyG-O-30" style="endArrow=classic;html=1;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="g819Jn2-5BLW5gRTyG-O-17" target="g819Jn2-5BLW5gRTyG-O-18">
