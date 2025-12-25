@@ -16,6 +16,9 @@
         <mxCell id="PNkj3nJ6PbV4wqCSuqpz-2" value="报告逻辑混乱" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="160" y="550" width="240" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="8FEPMB1qksZTlhJCayM_-1" value="依赖AI或其他人" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="160" y="610" width="240" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
