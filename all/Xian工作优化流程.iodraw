@@ -35,7 +35,7 @@
           <mxGeometry x="120" y="120" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g819Jn2-5BLW5gRTyG-O-22" value="Roger&lt;div&gt;检查是否按计划执行&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="120" y="212" width="160" height="60" as="geometry" />
+          <mxGeometry x="120" y="211" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g819Jn2-5BLW5gRTyG-O-23" value="周四 Thursday" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="320" y="40" width="160" height="60" as="geometry" />
