@@ -19,7 +19,7 @@
         <mxCell id="g819Jn2-5BLW5gRTyG-O-16" value="周二 Tuesday" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-80" y="40" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g819Jn2-5BLW5gRTyG-O-17" value="Xian&lt;div&gt;报告工作方法/方案、问题、资源&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="g819Jn2-5BLW5gRTyG-O-17" value="Xian&lt;div&gt;报告工作方案、问题、资源&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-80" y="120" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g819Jn2-5BLW5gRTyG-O-18" value="Roger: 确定工作方法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -47,7 +47,7 @@
           <mxGeometry x="520" y="40" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g819Jn2-5BLW5gRTyG-O-26" value="日常总部报告" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="600" y="140" width="100" height="40" as="geometry" />
+          <mxGeometry x="520" y="120" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g819Jn2-5BLW5gRTyG-O-27" style="endArrow=classic;html=1;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="g819Jn2-5BLW5gRTyG-O-13" target="g819Jn2-5BLW5gRTyG-O-14">
           <mxGeometry relative="1" as="geometry" />
