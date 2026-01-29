@@ -24,7 +24,7 @@
           <mxGeometry x="20" y="295" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rO8jDZS6RrxGIwevSdIZ-20" value="xx Flash或EPN在&lt;div&gt;xx Platform上的驱动&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="128" y="269.25" width="260" height="30" as="geometry" />
+          <mxGeometry x="140" y="240" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rO8jDZS6RrxGIwevSdIZ-21" value="&lt;font color=&quot;#23497d&quot;&gt;System FW Team&lt;/font&gt;" style="swimlane;whiteSpace=wrap;fillColor=none;swimlaneFillColor=#BAC8D3;fontColor=#2F5B7C;fontFamily=Tahoma;html=1;strokeColor=none;opacity=50;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="360" y="88.5" width="160" height="391.5" as="geometry">
