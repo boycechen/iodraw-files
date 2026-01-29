@@ -35,9 +35,6 @@
         <mxCell id="177" value="Sales Contract" style="shape=document;whiteSpace=wrap;verticalAlign=middle;strokeColor=none;fillColor=#12aab5;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;spacingBottom=22;" parent="176" vertex="1">
           <mxGeometry x="20" y="50" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="178" value="Bills" style="shape=document;whiteSpace=wrap;verticalAlign=middle;strokeColor=none;fillColor=#12aab5;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;spacingBottom=22;" parent="176" vertex="1">
-          <mxGeometry x="20" y="530" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="179" value="Cost Allocation" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" parent="176" vertex="1">
           <mxGeometry x="20" y="305" width="120" height="60" as="geometry" />
         </mxCell>
@@ -137,10 +134,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="206" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeColor=#12AAB5;strokeWidth=3;html=1;endArrow=block;endFill=1;" parent="1" source="191" target="178" edge="1">
+        <mxCell id="206" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeColor=#12AAB5;strokeWidth=3;html=1;endArrow=block;endFill=1;" parent="1" source="191" edge="1">
           <mxGeometry x="484.5" y="623.5" width="100" height="100" as="geometry">
             <mxPoint x="544.5" y="618.5" as="sourcePoint" />
-            <mxPoint x="644.5" y="518.5" as="targetPoint" />
+            <mxPoint x="844.5" y="654" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="207" value="" style="edgeStyle=segmentEdgeStyle;strokeColor=#2F5B7C;strokeWidth=3;html=1;endArrow=block;endFill=1;" parent="1" source="184" target="189" edge="1">
@@ -198,10 +195,10 @@
             <mxPoint x="954.5" y="288.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="215" value="" style="edgeStyle=segmentEdgeStyle;strokeColor=#2F5B7C;strokeWidth=3;html=1;endArrow=block;endFill=1;" parent="1" source="182" target="178" edge="1">
+        <mxCell id="215" value="" style="edgeStyle=segmentEdgeStyle;strokeColor=#2F5B7C;strokeWidth=3;html=1;endArrow=block;endFill=1;" parent="1" source="182" edge="1">
           <mxGeometry x="804.5" y="538.5" width="100" height="100" as="geometry">
             <mxPoint x="884.5" y="578.5" as="sourcePoint" />
-            <mxPoint x="984.5" y="478.5" as="targetPoint" />
+            <mxPoint x="904.5" y="618.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="216" value="" style="edgeStyle=segmentEdgeStyle;strokeColor=#2F5B7C;strokeWidth=3;html=1;endArrow=block;endFill=1;" parent="1" source="179" edge="1">
