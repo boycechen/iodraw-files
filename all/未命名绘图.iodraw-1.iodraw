@@ -12,8 +12,8 @@
         <mxCell id="rO8jDZS6RrxGIwevSdIZ-4" value="总部MP600" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="rO8jDZS6RrxGIwevSdIZ-1">
           <mxGeometry x="20" y="91.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rO8jDZS6RrxGIwevSdIZ-7" value="总部MP600" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="54.5" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="rO8jDZS6RrxGIwevSdIZ-7" value="C&#39;R&#39;S" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="rO8jDZS6RrxGIwevSdIZ-1">
+          <mxGeometry x="20" y="201.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
