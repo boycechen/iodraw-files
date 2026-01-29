@@ -23,7 +23,7 @@
             <mxRectangle x="20" y="20" width="80" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rO8jDZS6RrxGIwevSdIZ-10" value="Material Requirements Planning Operation" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;plain-purple;strokeColor=none;fillColor=#2f5b7c;gradientColor=none;spacing=6;verticalAlign=middle;" vertex="1" parent="rO8jDZS6RrxGIwevSdIZ-9">
+        <mxCell id="rO8jDZS6RrxGIwevSdIZ-10" value="" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;plain-purple;strokeColor=none;fillColor=#2f5b7c;gradientColor=none;spacing=6;verticalAlign=middle;" vertex="1" parent="rO8jDZS6RrxGIwevSdIZ-9">
           <mxGeometry x="20" y="71.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
