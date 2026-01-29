@@ -9,23 +9,11 @@
             <mxRectangle x="20" y="20" width="80" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rO8jDZS6RrxGIwevSdIZ-3" value="Credit Management" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="rO8jDZS6RrxGIwevSdIZ-1">
-          <mxGeometry x="20" y="375" width="120" height="60" as="geometry" />
+        <mxCell id="rO8jDZS6RrxGIwevSdIZ-4" value="总部MP600" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="rO8jDZS6RrxGIwevSdIZ-1">
+          <mxGeometry x="20" y="91.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rO8jDZS6RrxGIwevSdIZ-4" value="Price Management" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="rO8jDZS6RrxGIwevSdIZ-1">
-          <mxGeometry x="20" y="485" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="rO8jDZS6RrxGIwevSdIZ-5" value="" style="edgeStyle=segmentEdgeStyle;strokeColor=#2F5B7C;strokeWidth=3;html=1;endArrow=block;endFill=1;" edge="1" parent="rO8jDZS6RrxGIwevSdIZ-1" source="rO8jDZS6RrxGIwevSdIZ-3" target="rO8jDZS6RrxGIwevSdIZ-4">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="170" y="397.5" as="sourcePoint" />
-            <mxPoint x="270" y="472.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rO8jDZS6RrxGIwevSdIZ-6" value="" style="edgeStyle=segmentEdgeStyle;strokeColor=#2F5B7C;strokeWidth=3;html=1;endArrow=block;endFill=1;" edge="1" parent="rO8jDZS6RrxGIwevSdIZ-1" target="rO8jDZS6RrxGIwevSdIZ-3">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="80" y="120" as="sourcePoint" />
-            <mxPoint x="260" y="185" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="rO8jDZS6RrxGIwevSdIZ-7" value="总部MP600" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="54.5" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
