@@ -75,6 +75,9 @@
         <mxCell id="9BAn4xpur4bG6f2R-IXb-18" value="驱动测试" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="rO8jDZS6RrxGIwevSdIZ-21">
           <mxGeometry x="470" y="71.5" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9BAn4xpur4bG6f2R-IXb-19" value="驱动文档" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="rO8jDZS6RrxGIwevSdIZ-21">
+          <mxGeometry x="620" y="71.5" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
