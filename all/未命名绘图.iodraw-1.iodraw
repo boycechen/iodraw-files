@@ -178,7 +178,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EiGbVadActy54V0xO2wB-3" value="" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" parent="EiGbVadActy54V0xO2wB-1" vertex="1">
-          <mxGeometry x="20" y="71.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="191.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4BH_xDyYvMNDoajJUMdw-1" value="Xilinx开发板" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="EiGbVadActy54V0xO2wB-1">
           <mxGeometry x="20" y="295" width="120" height="60" as="geometry" />
@@ -189,7 +189,7 @@
         <mxCell id="4BH_xDyYvMNDoajJUMdw-3" value="NXP开发板" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="EiGbVadActy54V0xO2wB-1">
           <mxGeometry x="300" y="295" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4BH_xDyYvMNDoajJUMdw-4" value="开发板" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="EiGbVadActy54V0xO2wB-1">
+        <mxCell id="4BH_xDyYvMNDoajJUMdw-4" value="xxx开发板" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="EiGbVadActy54V0xO2wB-1">
           <mxGeometry x="440" y="295" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
