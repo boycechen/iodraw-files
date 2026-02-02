@@ -192,7 +192,7 @@
         <mxCell id="4BH_xDyYvMNDoajJUMdw-4" value="xxx开发板" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="EiGbVadActy54V0xO2wB-1">
           <mxGeometry x="440" y="295" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4BH_xDyYvMNDoajJUMdw-5" value="" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="EiGbVadActy54V0xO2wB-1">
+        <mxCell id="4BH_xDyYvMNDoajJUMdw-5" value="eMMC" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="EiGbVadActy54V0xO2wB-1">
           <mxGeometry x="20" y="131.5" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
