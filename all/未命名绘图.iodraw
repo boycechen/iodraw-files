@@ -400,8 +400,11 @@
         <mxCell id="lfDrh3TQCBXrmz0Pdzv2-84" value="MxMTD&lt;div&gt;Driver&lt;/div&gt;" style="whiteSpace=wrap;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
           <mxGeometry x="619" y="222" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="avf6-rvNwamw24vskxUx-4" value="Flash&lt;div&gt;Chip&lt;/div&gt;" style="whiteSpace=wrap;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="81" y="252" width="60" height="60" as="geometry" />
+        <mxCell id="avf6-rvNwamw24vskxUx-4" value="Flash&lt;div&gt;Chip&lt;/div&gt;" style="whiteSpace=wrap;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
+          <mxGeometry x="760" y="222" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avf6-rvNwamw24vskxUx-5" value="FPGA" style="whiteSpace=wrap;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
+          <mxGeometry x="830" y="222" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
