@@ -301,28 +301,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;container=0;" vertex="1" parent="1">
-          <mxGeometry x="142.5" y="515" width="505" height="140" as="geometry" />
+          <mxGeometry x="142.5" y="490" width="505" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-42" value="UBoot" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#eeeeee;strokeColor=#36393d;fontSize=13;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;container=0;" vertex="1" parent="1">
-          <mxGeometry x="152" y="525" width="65" height="120" as="geometry" />
+          <mxGeometry x="152" y="500" width="65" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-43" value="Linux" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#eeeeee;strokeColor=#36393d;fontSize=13;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;container=0;" vertex="1" parent="1">
-          <mxGeometry x="222" y="525" width="65" height="120" as="geometry" />
+          <mxGeometry x="222" y="500" width="65" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-44" value="Zephyr&lt;div style=&quot;font-size: 13px;&quot;&gt;RTOS&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#eeeeee;strokeColor=#36393d;fontSize=13;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;container=0;" vertex="1" parent="1">
-          <mxGeometry x="292" y="525" width="65" height="120" as="geometry" />
+          <mxGeometry x="292" y="500" width="65" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-45" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;...&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#eeeeee;strokeColor=#36393d;fontSize=25;fontFamily=Helvetica;spacingTop=-16;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;container=0;" vertex="1" parent="1">
-          <mxGeometry x="362" y="525" width="65" height="120" as="geometry" />
+          <mxGeometry x="362" y="500" width="65" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-46" value="Free&lt;span style=&quot;&quot;&gt;RTOS&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;container=0;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="503" y="525" width="65" height="120" as="geometry" />
+          <mxGeometry x="503" y="500" width="65" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-47" value="FlashROM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#eeeeee;strokeColor=#36393d;fontSize=13;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;container=0;" vertex="1" parent="1">
-          <mxGeometry x="573" y="525" width="65" height="120" as="geometry" />
+          <mxGeometry x="573" y="500" width="65" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-49" value="FSP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#eeeeee;strokeColor=#36393d;fontSize=13;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;container=0;" vertex="1" parent="1">
-          <mxGeometry x="433" y="525" width="65" height="120" as="geometry" />
+          <mxGeometry x="433" y="500" width="65" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
