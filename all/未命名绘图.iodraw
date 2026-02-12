@@ -261,7 +261,7 @@
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-4" value="软件/系统平台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#2f5b7c;strokeColor=#6c8ebf;fontStyle=0;shadow=0;align=center;verticalAlign=middle;spacing=6;fontFamily=Helvetica;fontColor=#FFFFFF;container=0;" vertex="1" parent="6QvlQIBep5d0M9I9-a26-1">
           <mxGeometry x="378" y="270" width="310" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Iusv1R_BgAyuJ9GwLuno-16" value="" style="group;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;opacity=50;verticalAlign=middle;swimlaneFillColor=#BAC8D3;fontFamily=Tahoma;fontColor=default;fontStyle=0;container=0;" vertex="1" connectable="0" parent="6QvlQIBep5d0M9I9-a26-1">
+        <mxCell id="Iusv1R_BgAyuJ9GwLuno-16" value="" style="group;fontSize=12;align=center;opacity=50;verticalAlign=middle;swimlaneFillColor=#BAC8D3;fontFamily=Tahoma;fontStyle=0;container=0;fillColor=default;" vertex="1" connectable="0" parent="6QvlQIBep5d0M9I9-a26-1">
           <mxGeometry x="880" y="30" width="120" height="240" as="geometry" />
         </mxCell>
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#dae8fc;gradientColor=#7ea6e0;" edge="1" parent="6QvlQIBep5d0M9I9-a26-1" source="Iusv1R_BgAyuJ9GwLuno-25" target="Iusv1R_BgAyuJ9GwLuno-3">
