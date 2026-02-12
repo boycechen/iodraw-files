@@ -327,8 +327,8 @@
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-49" value="FSP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;container=0;fillColor=default;gradientColor=none;strokeColor=default;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-55">
           <mxGeometry x="521" y="340" width="65" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="G1X-Q7E5wppYd4XMEV7L-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-55">
-          <mxGeometry x="80" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="G1X-Q7E5wppYd4XMEV7L-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="1040" height="540" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
