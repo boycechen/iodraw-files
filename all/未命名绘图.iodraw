@@ -227,7 +227,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6QvlQIBep5d0M9I9-a26-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="191" y="210" width="1050" height="540" as="geometry" />
+          <mxGeometry x="191" y="280" width="1050" height="540" as="geometry" />
         </mxCell>
         <mxCell id="G1X-Q7E5wppYd4XMEV7L-1" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;strokeColor=#23445d;align=center;verticalAlign=middle;swimlaneFillColor=#BAC8D3;fontFamily=Tahoma;fontSize=12;fontStyle=1;fillColor=#bac8d3;container=0;" vertex="1" parent="6QvlQIBep5d0M9I9-a26-1">
           <mxGeometry width="1050" height="540" as="geometry" />
@@ -270,7 +270,7 @@
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;pointerEvents=0;opacity=50;align=center;verticalAlign=middle;swimlaneFillColor=#BAC8D3;fontFamily=Tahoma;fontSize=12;fontColor=default;fontStyle=1;gradientColor=none;" vertex="1" parent="6QvlQIBep5d0M9I9-a26-1">
           <mxGeometry x="280.5" y="360" width="505" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Iusv1R_BgAyuJ9GwLuno-42" value="UBoot" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;container=0;fillColor=default;gradientColor=none;strokeColor=default;" vertex="1" parent="6QvlQIBep5d0M9I9-a26-1">
+        <mxCell id="Iusv1R_BgAyuJ9GwLuno-42" value="UBoot" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;container=0;fillColor=default;gradientColor=none;strokeColor=default;fontColor=default;fontStyle=0;" vertex="1" parent="6QvlQIBep5d0M9I9-a26-1">
           <mxGeometry x="290" y="370" width="65" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-43" value="Linux" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;container=0;fillColor=default;gradientColor=none;strokeColor=default;" vertex="1" parent="6QvlQIBep5d0M9I9-a26-1">
