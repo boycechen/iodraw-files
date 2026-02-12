@@ -346,11 +346,6 @@
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-7" value="Flash芯片验证阶段" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=13;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
           <mxGeometry x="340" y="148" width="280" height="38.5" as="geometry" />
         </mxCell>
-        <mxCell id="lfDrh3TQCBXrmz0Pdzv2-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="F3if_uiXnV5HRU1Du9Ce-1" source="F3if_uiXnV5HRU1Du9Ce-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-9" value="Behavior Model" style="whiteSpace=wrap;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
           <mxGeometry x="20" y="210" width="60" height="60" as="geometry" />
         </mxCell>
@@ -370,10 +365,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-37" value="Co-Simulation" style="whiteSpace=wrap;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
-          <mxGeometry x="100" y="320" width="160" height="60" as="geometry" />
+          <mxGeometry x="50" y="310" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-38" value="Simulation Report" style="whiteSpace=wrap;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
-          <mxGeometry x="100" y="415" width="160" height="60" as="geometry" />
+          <mxGeometry x="50" y="415" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="F3if_uiXnV5HRU1Du9Ce-1" source="F3if_uiXnV5HRU1Du9Ce-48">
           <mxGeometry relative="1" as="geometry">
@@ -419,13 +414,6 @@
         </mxCell>
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-82" value="测试结果" style="whiteSpace=wrap;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
           <mxGeometry x="340" y="320" width="270" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lfDrh3TQCBXrmz0Pdzv2-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="F3if_uiXnV5HRU1Du9Ce-1" source="lfDrh3TQCBXrmz0Pdzv2-35" target="F3if_uiXnV5HRU1Du9Ce-37">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="230" y="290" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="lfDrh3TQCBXrmz0Pdzv2-35" value="Bare Metal Driver" style="whiteSpace=wrap;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;strokeColor=#82b366;align=center;fontColor=default;fillColor=#d5e8d4;gradientColor=#97d077;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
           <mxGeometry x="240" y="210" width="60" height="60" as="geometry" />
