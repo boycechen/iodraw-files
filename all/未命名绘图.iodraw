@@ -346,7 +346,7 @@
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-7" value="Flash芯片验证阶段" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
           <mxGeometry x="280" y="148" width="160" height="38.5" as="geometry" />
         </mxCell>
-        <mxCell id="F3if_uiXnV5HRU1Du9Ce-9" value="Behavior Model" style="whiteSpace=wrap;strokeColor=#36393d;fillColor=#eeeeee;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
+        <mxCell id="F3if_uiXnV5HRU1Du9Ce-9" value="Behavior Model" style="whiteSpace=wrap;strokeColor=#36393d;fillColor=#f9f7ed;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
           <mxGeometry x="40" y="210" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-15" value="Flash商用开发阶段" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
@@ -367,13 +367,13 @@
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-36" value="MxMTD系统平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontSize=16;fontStyle=1" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
           <mxGeometry x="250" y="38" width="470" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="F3if_uiXnV5HRU1Du9Ce-37" value="Co-Simulation" style="whiteSpace=wrap;strokeColor=#36393d;fillColor=#eeeeee;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
+        <mxCell id="F3if_uiXnV5HRU1Du9Ce-37" value="Co-Simulation" style="whiteSpace=wrap;strokeColor=#36393d;fillColor=#f9f7ed;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
           <mxGeometry x="40" y="290" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F3if_uiXnV5HRU1Du9Ce-38" value="Simulation Report" style="whiteSpace=wrap;strokeColor=#36393d;fillColor=#eeeeee;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
+        <mxCell id="F3if_uiXnV5HRU1Du9Ce-38" value="Simulation Report" style="whiteSpace=wrap;strokeColor=#36393d;fillColor=#f9f7ed;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
           <mxGeometry x="40" y="370" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F3if_uiXnV5HRU1Du9Ce-39" value="Flash Chip" style="whiteSpace=wrap;strokeColor=#36393d;fillColor=#eeeeee;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
+        <mxCell id="F3if_uiXnV5HRU1Du9Ce-39" value="Flash Chip" style="whiteSpace=wrap;strokeColor=#36393d;fillColor=#f9f7ed;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
           <mxGeometry x="280" y="210" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-40" value="FPGA + UEFC" style="whiteSpace=wrap;strokeColor=#36393d;fillColor=#eeeeee;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
