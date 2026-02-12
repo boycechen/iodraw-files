@@ -389,24 +389,11 @@
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-16" value="功能测试" style="whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
           <mxGeometry x="170" y="231.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F3if_uiXnV5HRU1Du9Ce-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shape=flexArrow;" edge="1" parent="F3if_uiXnV5HRU1Du9Ce-1" source="F3if_uiXnV5HRU1Du9Ce-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="620" y="101.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="F3if_uiXnV5HRU1Du9Ce-1" source="F3if_uiXnV5HRU1Du9Ce-19" target="F3if_uiXnV5HRU1Du9Ce-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-19" value="Flash" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
           <mxGeometry x="470" y="71.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="F3if_uiXnV5HRU1Du9Ce-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="F3if_uiXnV5HRU1Du9Ce-1" source="F3if_uiXnV5HRU1Du9Ce-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680" y="151.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="F3if_uiXnV5HRU1Du9Ce-21" value="驱动交付" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
-          <mxGeometry x="620" y="71.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="F3if_uiXnV5HRU1Du9Ce-1" source="F3if_uiXnV5HRU1Du9Ce-23">
           <mxGeometry relative="1" as="geometry">
@@ -424,21 +411,6 @@
         </mxCell>
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-26" value="测试用例&lt;div&gt;调试和修正&lt;/div&gt;" style="whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
           <mxGeometry x="470" y="311.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="F3if_uiXnV5HRU1Du9Ce-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="F3if_uiXnV5HRU1Du9Ce-1" source="F3if_uiXnV5HRU1Du9Ce-28" target="F3if_uiXnV5HRU1Du9Ce-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="F3if_uiXnV5HRU1Du9Ce-28" value="&lt;div&gt;Git版本管理&lt;/div&gt;&lt;div&gt;生成Patch/驱动包&lt;/div&gt;" style="whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
-          <mxGeometry x="620" y="151.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="F3if_uiXnV5HRU1Du9Ce-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="F3if_uiXnV5HRU1Du9Ce-1" source="F3if_uiXnV5HRU1Du9Ce-30" target="F3if_uiXnV5HRU1Du9Ce-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="F3if_uiXnV5HRU1Du9Ce-30" value="&lt;div&gt;Application Note&lt;/div&gt;" style="whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
-          <mxGeometry x="620" y="231.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="F3if_uiXnV5HRU1Du9Ce-31" value="测试报告" style="whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
-          <mxGeometry x="620" y="311.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="F3if_uiXnV5HRU1Du9Ce-1" source="F3if_uiXnV5HRU1Du9Ce-33">
           <mxGeometry relative="1" as="geometry">
