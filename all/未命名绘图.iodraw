@@ -306,6 +306,9 @@
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-44" value="Zephyr&lt;div&gt;RTOS&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="430" y="480" width="80" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="Iusv1R_BgAyuJ9GwLuno-45" value="FSP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="530" y="480" width="80" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
