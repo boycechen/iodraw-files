@@ -248,7 +248,7 @@
           <mxGeometry x="330" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-16" value="" style="group;fontSize=13;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="740" y="327.5" width="110" height="225" as="geometry" />
+          <mxGeometry x="740" y="327.5" width="130" height="240" as="geometry" />
         </mxCell>
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-7" value="Generic NOR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=13;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-16">
           <mxGeometry width="110" height="30" as="geometry" />
@@ -291,9 +291,6 @@
         </mxCell>
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Iusv1R_BgAyuJ9GwLuno-25" target="Iusv1R_BgAyuJ9GwLuno-3">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Iusv1R_BgAyuJ9GwLuno-39" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
