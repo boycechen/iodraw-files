@@ -260,19 +260,22 @@
           <mxGeometry y="195" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-20" value="NXP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="460" width="110" height="30" as="geometry" />
+          <mxGeometry x="-90" y="345" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-21" value="Renesas" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="500" width="110" height="30" as="geometry" />
+          <mxGeometry x="-90" y="385" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-22" value="TI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="540" width="110" height="30" as="geometry" />
+          <mxGeometry x="-90" y="425" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-23" value="Nordic" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="580" width="110" height="30" as="geometry" />
+          <mxGeometry x="-90" y="465" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-24" value="STM32" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="620" width="110" height="30" as="geometry" />
+          <mxGeometry x="-90" y="505" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iusv1R_BgAyuJ9GwLuno-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
