@@ -238,7 +238,7 @@
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-1" value="Flash Driver" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#b0e3e6;strokeColor=#0e8088;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-55">
           <mxGeometry x="398" y="71" width="170" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="tcro0sMcYXAOf0wlCVMb-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Iusv1R_BgAyuJ9GwLuno-55" source="Iusv1R_BgAyuJ9GwLuno-2">
+        <mxCell id="tcro0sMcYXAOf0wlCVMb-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#dae8fc;gradientColor=#7ea6e0;" edge="1" parent="Iusv1R_BgAyuJ9GwLuno-55" source="Iusv1R_BgAyuJ9GwLuno-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="830" y="121" as="targetPoint" />
           </mxGeometry>
