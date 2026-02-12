@@ -261,19 +261,19 @@
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-16" value="" style="group;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;opacity=50;verticalAlign=middle;swimlaneFillColor=#BAC8D3;fontFamily=Tahoma;fontColor=default;fontStyle=1;" vertex="1" connectable="0" parent="Iusv1R_BgAyuJ9GwLuno-55">
           <mxGeometry x="830" width="120" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="Iusv1R_BgAyuJ9GwLuno-7" value="Generic NOR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Tahoma;fontStyle=1;fillColor=default;strokeColor=default;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-16">
+        <mxCell id="Iusv1R_BgAyuJ9GwLuno-7" value="Generic NOR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Tahoma;fontStyle=0;fillColor=default;strokeColor=default;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-16">
           <mxGeometry x="9.230769230769283" y="8" width="101.53846153846155" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Iusv1R_BgAyuJ9GwLuno-8" value="SPI NAND" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Tahoma;fontStyle=1;fillColor=default;strokeColor=default;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-16">
+        <mxCell id="Iusv1R_BgAyuJ9GwLuno-8" value="SPI NAND" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Tahoma;fontStyle=0;fillColor=default;strokeColor=default;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-16">
           <mxGeometry x="9.230769230769283" y="47" width="101.53846153846155" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Iusv1R_BgAyuJ9GwLuno-9" value="ONFI NAND" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Tahoma;fontStyle=1;fillColor=default;strokeColor=default;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-16">
+        <mxCell id="Iusv1R_BgAyuJ9GwLuno-9" value="ONFI NAND" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Tahoma;fontStyle=0;fillColor=default;strokeColor=default;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-16">
           <mxGeometry x="9.230769230769283" y="86.5" width="101.53846153846155" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Iusv1R_BgAyuJ9GwLuno-10" value="eMMC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Tahoma;fontStyle=1;fillColor=default;strokeColor=default;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-16">
+        <mxCell id="Iusv1R_BgAyuJ9GwLuno-10" value="eMMC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Tahoma;fontStyle=0;fillColor=default;strokeColor=default;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-16">
           <mxGeometry x="9.230769230769283" y="125.5" width="101.53846153846155" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Iusv1R_BgAyuJ9GwLuno-13" value="Armor Series" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Tahoma;fontStyle=1;fillColor=default;strokeColor=default;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-16">
+        <mxCell id="Iusv1R_BgAyuJ9GwLuno-13" value="Armor Series" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Tahoma;fontStyle=0;fillColor=default;strokeColor=default;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-16">
           <mxGeometry x="9.230769230769283" y="164.5" width="101.53846153846155" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-14" value="Octa NOR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Tahoma;fontStyle=0;fillColor=default;strokeColor=default;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-16">
