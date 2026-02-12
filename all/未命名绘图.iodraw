@@ -350,7 +350,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-9" value="Behavior Model" style="whiteSpace=wrap;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
-          <mxGeometry x="47" y="221" width="60" height="60" as="geometry" />
+          <mxGeometry x="42" y="221" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-15" value="Flash商用验证阶段" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=13;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
           <mxGeometry x="760" y="160.75" width="280" height="38.5" as="geometry" />
@@ -416,7 +416,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lfDrh3TQCBXrmz0Pdzv2-35" value="Bare Metal Driver" style="whiteSpace=wrap;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;strokeColor=#82b366;align=center;fontColor=default;fillColor=#d5e8d4;gradientColor=#97d077;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
-          <mxGeometry x="220" y="221" width="60" height="60" as="geometry" />
+          <mxGeometry x="259" y="221" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lfDrh3TQCBXrmz0Pdzv2-44" value="Flash&lt;div&gt;Chip&lt;/div&gt;" style="whiteSpace=wrap;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
           <mxGeometry x="405" y="222" width="60" height="60" as="geometry" />
