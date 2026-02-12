@@ -418,6 +418,11 @@
         <mxCell id="avf6-rvNwamw24vskxUx-8" value="RTOS" style="whiteSpace=wrap;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
           <mxGeometry x="833" y="300" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="avf6-rvNwamw24vskxUx-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="F3if_uiXnV5HRU1Du9Ce-1" source="avf6-rvNwamw24vskxUx-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="avf6-rvNwamw24vskxUx-10" value="Linux" style="whiteSpace=wrap;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
           <mxGeometry x="907" y="300" width="60" height="60" as="geometry" />
         </mxCell>
