@@ -309,8 +309,11 @@
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-45" value="FSP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="375" y="480" width="80" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Iusv1R_BgAyuJ9GwLuno-46" value="FSP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="Iusv1R_BgAyuJ9GwLuno-46" value="FreeRTOS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="475" y="480" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Iusv1R_BgAyuJ9GwLuno-47" value="FreeRTOS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="485" y="490" width="80" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
