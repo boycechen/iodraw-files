@@ -445,6 +445,9 @@
         <mxCell id="lfDrh3TQCBXrmz0Pdzv2-1" value="Behavior Model" style="whiteSpace=wrap;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
           <mxGeometry x="40" y="290" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="lfDrh3TQCBXrmz0Pdzv2-35" value="Bare Metal Driver" style="whiteSpace=wrap;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
+          <mxGeometry x="140" y="210" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
