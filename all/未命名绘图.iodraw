@@ -341,19 +341,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-4" value="Flash仿真阶段" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
-          <mxGeometry x="40" y="81.5" width="160" height="40" as="geometry" />
+          <mxGeometry x="40" y="148" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-7" value="Flash芯片验证阶段" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
-          <mxGeometry x="280" y="81.5" width="160" height="38.5" as="geometry" />
+          <mxGeometry x="280" y="148" width="160" height="38.5" as="geometry" />
         </mxCell>
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-9" value="开发板&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Datasheet学习&lt;/span&gt;" style="whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
-          <mxGeometry x="40" y="160" width="160" height="60" as="geometry" />
+          <mxGeometry x="40" y="226.5" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-15" value="Flash商用阶段" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
-          <mxGeometry x="520" y="81.5" width="160" height="38.5" as="geometry" />
+          <mxGeometry x="520" y="148" width="160" height="38.5" as="geometry" />
         </mxCell>
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-19" value="Flash" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
-          <mxGeometry x="760" y="83" width="160" height="38.5" as="geometry" />
+          <mxGeometry x="760" y="149.5" width="160" height="38.5" as="geometry" />
+        </mxCell>
+        <mxCell id="F3if_uiXnV5HRU1Du9Ce-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
+          <mxGeometry x="290" y="38" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
