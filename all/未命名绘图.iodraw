@@ -413,13 +413,16 @@
           <mxGeometry x="980" y="222" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="avf6-rvNwamw24vskxUx-8" value="RTOS" style="whiteSpace=wrap;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
-          <mxGeometry x="760" y="300" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="avf6-rvNwamw24vskxUx-10" value="Linux" style="whiteSpace=wrap;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
           <mxGeometry x="830" y="300" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="avf6-rvNwamw24vskxUx-10" value="Linux" style="whiteSpace=wrap;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
+          <mxGeometry x="900" y="300" width="60" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="avf6-rvNwamw24vskxUx-11" value="Bare Metal" style="whiteSpace=wrap;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
-          <mxGeometry x="770" y="390" width="60" height="60" as="geometry" />
+          <mxGeometry x="760" y="300" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avf6-rvNwamw24vskxUx-12" value="M" style="whiteSpace=wrap;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
+          <mxGeometry x="980" y="300" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
