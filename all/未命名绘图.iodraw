@@ -309,7 +309,7 @@
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-14" value="Octa NOR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Tahoma;fontStyle=0;fillColor=default;strokeColor=default;container=0;" vertex="1" parent="6QvlQIBep5d0M9I9-a26-1">
           <mxGeometry x="889.2307692307693" y="233" width="101.53846153846155" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Iusv1R_BgAyuJ9GwLuno-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;opacity=50;align=center;verticalAlign=middle;swimlaneFillColor=#BAC8D3;fontFamily=Tahoma;fontStyle=1;container=0;" vertex="1" parent="6QvlQIBep5d0M9I9-a26-1">
+        <mxCell id="Iusv1R_BgAyuJ9GwLuno-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;opacity=50;align=center;verticalAlign=middle;swimlaneFillColor=#BAC8D3;fontFamily=Tahoma;fontStyle=1;container=0;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="6QvlQIBep5d0M9I9-a26-1">
           <mxGeometry x="50" y="41" width="125" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-20" value="NXP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Tahoma;fontStyle=0;fillColor=default;strokeColor=default;container=0;" vertex="1" parent="6QvlQIBep5d0M9I9-a26-1">
