@@ -322,7 +322,7 @@
           <mxGeometry x="361" y="500" width="65" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-50" value="RT-Thread&lt;div style=&quot;font-size: 13px;&quot;&gt;RTOS&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f9f7ed;strokeColor=#36393d;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="581" y="510" width="65" height="120" as="geometry" />
+          <mxGeometry x="641" y="500" width="65" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
