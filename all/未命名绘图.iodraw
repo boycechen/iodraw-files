@@ -309,11 +309,11 @@
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-45" value="FSP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f9f7ed;strokeColor=#36393d;fontSize=13;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="374" y="470" width="59" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Iusv1R_BgAyuJ9GwLuno-46" value="FreeRTOS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f9f7ed;strokeColor=#36393d;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="Iusv1R_BgAyuJ9GwLuno-46" value="Free&lt;div&gt;RTOS&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f9f7ed;strokeColor=#36393d;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="477" y="470" width="59" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-47" value="FlashROM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f9f7ed;strokeColor=#36393d;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="581" y="470" width="80" height="120" as="geometry" />
+          <mxGeometry x="581" y="470" width="59" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-48" value="RT-Thread&lt;div style=&quot;font-size: 13px;&quot;&gt;RTOS&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f9f7ed;strokeColor=#36393d;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="684" y="470" width="80" height="120" as="geometry" />
