@@ -361,7 +361,7 @@
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-12" value="开发板采购&lt;div&gt;STM32/NXP/TI/RA&lt;/div&gt;" style="whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
           <mxGeometry x="60" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F3if_uiXnV5HRU1Du9Ce-15" value="Flash商业应用阶段" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
+        <mxCell id="F3if_uiXnV5HRU1Du9Ce-15" value="Flash商用阶段" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
           <mxGeometry x="520" y="81.5" width="160" height="38.5" as="geometry" />
         </mxCell>
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-16" value="功能测试" style="whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
