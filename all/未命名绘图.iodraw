@@ -229,7 +229,7 @@
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-55" value="" style="group;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="170" y="260" width="950" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="Iusv1R_BgAyuJ9GwLuno-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#dae8fc;gradientColor=#7ea6e0;" edge="1" parent="Iusv1R_BgAyuJ9GwLuno-55" source="Iusv1R_BgAyuJ9GwLuno-1" target="Iusv1R_BgAyuJ9GwLuno-2">
+        <mxCell id="Iusv1R_BgAyuJ9GwLuno-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#dae8fc;gradientColor=#7ea6e0;" edge="1" parent="Iusv1R_BgAyuJ9GwLuno-55" source="Iusv1R_BgAyuJ9GwLuno-1" target="Iusv1R_BgAyuJ9GwLuno-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#6c8ebf;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fillColor=#dae8fc;gradientColor=#7ea6e0;" edge="1" parent="Iusv1R_BgAyuJ9GwLuno-55" source="Iusv1R_BgAyuJ9GwLuno-1" target="Iusv1R_BgAyuJ9GwLuno-4">
@@ -285,19 +285,19 @@
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;opacity=50;align=center;verticalAlign=middle;swimlaneFillColor=#BAC8D3;fontFamily=Tahoma;fontColor=default;fontStyle=1;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-26">
           <mxGeometry width="125" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="Iusv1R_BgAyuJ9GwLuno-20" value="NXP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Tahoma;fontStyle=1;fillColor=default;strokeColor=default;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-26">
+        <mxCell id="Iusv1R_BgAyuJ9GwLuno-20" value="NXP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Tahoma;fontStyle=0;fillColor=default;strokeColor=default;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-26">
           <mxGeometry x="7.5" y="15" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Iusv1R_BgAyuJ9GwLuno-21" value="Renesas" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Tahoma;fontStyle=1;fontColor=default;fillColor=default;strokeColor=default;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-26">
+        <mxCell id="Iusv1R_BgAyuJ9GwLuno-21" value="Renesas" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Tahoma;fontStyle=0;fontColor=default;fillColor=default;strokeColor=default;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-26">
           <mxGeometry x="7.5" y="55" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Iusv1R_BgAyuJ9GwLuno-22" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;horizontal=1;labelPosition=center;verticalLabelPosition=middle;spacing=2;spacingTop=-12;fontFamily=Tahoma;fontStyle=1;fillColor=default;strokeColor=default;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-26">
+        <mxCell id="Iusv1R_BgAyuJ9GwLuno-22" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;horizontal=1;labelPosition=center;verticalLabelPosition=middle;spacing=2;spacingTop=-12;fontFamily=Tahoma;fontStyle=0;fillColor=default;strokeColor=default;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-26">
           <mxGeometry x="7.5" y="95" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Iusv1R_BgAyuJ9GwLuno-23" value="Nordic" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Tahoma;fontStyle=1;fillColor=default;strokeColor=default;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-26">
+        <mxCell id="Iusv1R_BgAyuJ9GwLuno-23" value="Nordic" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Tahoma;fontStyle=0;fillColor=default;strokeColor=default;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-26">
           <mxGeometry x="7.5" y="135" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Iusv1R_BgAyuJ9GwLuno-24" value="STM32" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Tahoma;fontStyle=1;fillColor=default;strokeColor=default;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-26">
+        <mxCell id="Iusv1R_BgAyuJ9GwLuno-24" value="STM32" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Tahoma;fontStyle=0;fillColor=default;strokeColor=default;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-26">
           <mxGeometry x="7.5" y="175" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#dae8fc;gradientColor=#7ea6e0;" edge="1" parent="Iusv1R_BgAyuJ9GwLuno-55" source="Iusv1R_BgAyuJ9GwLuno-25" target="Iusv1R_BgAyuJ9GwLuno-3">
