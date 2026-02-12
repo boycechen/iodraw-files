@@ -271,7 +271,7 @@
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-21" value="Renesas" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-26">
           <mxGeometry x="7.5" y="55" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Iusv1R_BgAyuJ9GwLuno-22" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=25;horizontal=1;labelPosition=center;verticalLabelPosition=middle;spacing=6;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-26">
+        <mxCell id="Iusv1R_BgAyuJ9GwLuno-22" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=25;horizontal=1;labelPosition=center;verticalLabelPosition=middle;spacing=2;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-26">
           <mxGeometry x="7.5" y="95" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-23" value="Nordic" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-26">
