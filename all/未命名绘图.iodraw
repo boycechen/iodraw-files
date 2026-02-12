@@ -315,6 +315,9 @@
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-47" value="FlashROM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="585" y="480" width="80" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="Iusv1R_BgAyuJ9GwLuno-48" value="RT-Thread&lt;div&gt;RTOS&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="700" y="480" width="80" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
