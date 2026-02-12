@@ -364,28 +364,6 @@
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-19" value="Flash" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
           <mxGeometry x="760" y="83" width="160" height="38.5" as="geometry" />
         </mxCell>
-        <mxCell id="F3if_uiXnV5HRU1Du9Ce-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="F3if_uiXnV5HRU1Du9Ce-1" source="F3if_uiXnV5HRU1Du9Ce-23">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="840" y="248.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="F3if_uiXnV5HRU1Du9Ce-23" value="测试用例开发" style="whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
-          <mxGeometry x="780" y="168.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="F3if_uiXnV5HRU1Du9Ce-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="F3if_uiXnV5HRU1Du9Ce-1" source="F3if_uiXnV5HRU1Du9Ce-25" target="F3if_uiXnV5HRU1Du9Ce-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="F3if_uiXnV5HRU1Du9Ce-25" value="测试用例执行" style="whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
-          <mxGeometry x="780" y="248.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="F3if_uiXnV5HRU1Du9Ce-26" value="测试用例&lt;div&gt;调试和修正&lt;/div&gt;" style="whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
-          <mxGeometry x="780" y="328.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="F3if_uiXnV5HRU1Du9Ce-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="F3if_uiXnV5HRU1Du9Ce-1" source="F3if_uiXnV5HRU1Du9Ce-33">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="248.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-33" value="SDK开发环境建立" style="whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
           <mxGeometry x="460" y="168.5" width="120" height="60" as="geometry" />
         </mxCell>
