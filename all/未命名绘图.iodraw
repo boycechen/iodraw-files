@@ -352,7 +352,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-9" value="Behavior Model" style="whiteSpace=wrap;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
-          <mxGeometry x="100" y="210" width="60" height="60" as="geometry" />
+          <mxGeometry x="20" y="210" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-15" value="Flash商用验证阶段" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=13;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
           <mxGeometry x="850" y="144" width="160" height="38.5" as="geometry" />
