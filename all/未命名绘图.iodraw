@@ -306,25 +306,25 @@
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;pointerEvents=0;opacity=50;align=center;verticalAlign=middle;swimlaneFillColor=#BAC8D3;fontFamily=Tahoma;fontSize=12;fontColor=default;fontStyle=1;gradientColor=none;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-55">
           <mxGeometry x="230.5" y="330" width="505" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Iusv1R_BgAyuJ9GwLuno-42" value="UBoot" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontSize=13;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;container=0;fontColor=#333333;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-55">
+        <mxCell id="Iusv1R_BgAyuJ9GwLuno-42" value="UBoot" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;container=0;fillColor=default;gradientColor=default;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-55">
           <mxGeometry x="240" y="340" width="65" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Iusv1R_BgAyuJ9GwLuno-43" value="Linux" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontSize=13;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;container=0;fontColor=#333333;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-55">
+        <mxCell id="Iusv1R_BgAyuJ9GwLuno-43" value="Linux" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;container=0;fillColor=default;gradientColor=default;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-55">
           <mxGeometry x="310" y="340" width="65" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Iusv1R_BgAyuJ9GwLuno-44" value="Zephyr&lt;div style=&quot;font-size: 13px;&quot;&gt;RTOS&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontSize=13;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;container=0;fontColor=#333333;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-55">
+        <mxCell id="Iusv1R_BgAyuJ9GwLuno-44" value="Zephyr&lt;div style=&quot;font-size: 13px;&quot;&gt;RTOS&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;container=0;fillColor=default;gradientColor=default;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-55">
           <mxGeometry x="380" y="340" width="65" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Iusv1R_BgAyuJ9GwLuno-45" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;...&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontSize=25;fontFamily=Helvetica;spacingTop=-16;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;container=0;fontColor=#333333;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-55">
+        <mxCell id="Iusv1R_BgAyuJ9GwLuno-45" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;...&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontFamily=Helvetica;spacingTop=-16;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;container=0;fillColor=default;gradientColor=default;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-55">
           <mxGeometry x="450" y="340" width="65" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Iusv1R_BgAyuJ9GwLuno-46" value="Free&lt;span style=&quot;&quot;&gt;RTOS&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;container=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-55">
+        <mxCell id="Iusv1R_BgAyuJ9GwLuno-46" value="Free&lt;span style=&quot;&quot;&gt;RTOS&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;container=0;fillColor=default;gradientColor=default;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-55">
           <mxGeometry x="591" y="340" width="65" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Iusv1R_BgAyuJ9GwLuno-47" value="FlashROM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;container=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-55">
+        <mxCell id="Iusv1R_BgAyuJ9GwLuno-47" value="FlashROM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;container=0;fillColor=default;gradientColor=default;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-55">
           <mxGeometry x="661" y="340" width="65" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Iusv1R_BgAyuJ9GwLuno-49" value="FSP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontSize=13;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;container=0;fontColor=#333333;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-55">
+        <mxCell id="Iusv1R_BgAyuJ9GwLuno-49" value="FSP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;container=0;fillColor=default;gradientColor=default;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-55">
           <mxGeometry x="521" y="340" width="65" height="120" as="geometry" />
         </mxCell>
       </root>
