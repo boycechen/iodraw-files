@@ -395,9 +395,9 @@
           <mxGeometry x="520" y="290" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-68" value="MxMTD驱动&lt;div&gt;测试用例&lt;/div&gt;" style="whiteSpace=wrap;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
-          <mxGeometry x="520" y="440" width="160" height="60" as="geometry" />
+          <mxGeometry x="520" y="450" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F3if_uiXnV5HRU1Du9Ce-69" value="软件平台及RTOS" style="whiteSpace=wrap;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
+        <mxCell id="F3if_uiXnV5HRU1Du9Ce-69" value="各种软件平台&lt;div&gt;RTOS/Linux/Uboot&lt;/div&gt;" style="whiteSpace=wrap;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
           <mxGeometry x="520" y="370" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
