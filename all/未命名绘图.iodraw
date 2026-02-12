@@ -355,7 +355,7 @@
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-19" value="Flash" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
           <mxGeometry x="760" y="149.5" width="160" height="38.5" as="geometry" />
         </mxCell>
-        <mxCell id="F3if_uiXnV5HRU1Du9Ce-36" value="MxMTD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
+        <mxCell id="F3if_uiXnV5HRU1Du9Ce-36" value="MxMTD系统平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
           <mxGeometry x="355" y="38" width="250" height="72" as="geometry" />
         </mxCell>
       </root>
