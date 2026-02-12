@@ -301,7 +301,7 @@
           <mxGeometry x="64" y="470" width="56" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-43" value="Linux" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f9f7ed;strokeColor=#36393d;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="167" y="470" width="63" height="120" as="geometry" />
+          <mxGeometry x="167" y="470" width="59" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-44" value="Zephyr&lt;div style=&quot;font-size: 13px;&quot;&gt;RTOS&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f9f7ed;strokeColor=#36393d;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="271" y="470" width="59" height="120" as="geometry" />
