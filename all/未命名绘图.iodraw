@@ -249,7 +249,7 @@
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;strokeWidth=4;" edge="1" parent="Iusv1R_BgAyuJ9GwLuno-55" source="Iusv1R_BgAyuJ9GwLuno-3" target="Iusv1R_BgAyuJ9GwLuno-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Iusv1R_BgAyuJ9GwLuno-3" value="硬件平台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-55">
+        <mxCell id="Iusv1R_BgAyuJ9GwLuno-3" value="硬件平台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#2f5b7c;strokeColor=#6c8ebf;shadow=0;align=center;verticalAlign=middle;spacing=6;fontFamily=Helvetica;fontColor=#FFFFFF;fontStyle=0;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-55">
           <mxGeometry x="185" y="100.5" width="120" height="41" as="geometry" />
         </mxCell>
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#dae8fc;gradientColor=#7ea6e0;" edge="1" parent="Iusv1R_BgAyuJ9GwLuno-55" source="Iusv1R_BgAyuJ9GwLuno-4" target="Iusv1R_BgAyuJ9GwLuno-53">
