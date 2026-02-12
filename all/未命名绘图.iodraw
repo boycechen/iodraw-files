@@ -344,13 +344,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-4" value="Flash仿真阶段" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
-          <mxGeometry x="20" y="81.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="20" y="81.5" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="F3if_uiXnV5HRU1Du9Ce-1" source="F3if_uiXnV5HRU1Du9Ce-7" target="F3if_uiXnV5HRU1Du9Ce-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-7" value="Flash芯片验证阶段" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
-          <mxGeometry x="220" y="81.5" width="120" height="38.5" as="geometry" />
+          <mxGeometry x="220" y="81.5" width="160" height="38.5" as="geometry" />
         </mxCell>
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="F3if_uiXnV5HRU1Du9Ce-1" source="F3if_uiXnV5HRU1Du9Ce-9" target="F3if_uiXnV5HRU1Du9Ce-12">
           <mxGeometry relative="1" as="geometry" />
