@@ -341,7 +341,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-4" value="Flash仿真阶段" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=13;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
-          <mxGeometry x="20" y="148" width="240" height="40" as="geometry" />
+          <mxGeometry x="20" y="148" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-7" value="Flash芯片验证阶段" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=13;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
           <mxGeometry x="340" y="148" width="280" height="38.5" as="geometry" />
