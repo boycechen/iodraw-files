@@ -270,7 +270,7 @@
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;pointerEvents=0;opacity=50;align=center;verticalAlign=middle;swimlaneFillColor=#BAC8D3;fontFamily=Tahoma;fontSize=12;fontColor=default;fontStyle=1;gradientColor=none;" vertex="1" parent="6QvlQIBep5d0M9I9-a26-1">
           <mxGeometry x="280.5" y="360" width="505" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Iusv1R_BgAyuJ9GwLuno-42" value="UBoot" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;container=0;fillColor=default;gradientColor=none;strokeColor=default;fontColor=default;fontStyle=0;" vertex="1" parent="6QvlQIBep5d0M9I9-a26-1">
+        <mxCell id="Iusv1R_BgAyuJ9GwLuno-42" value="UBoot" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;container=0;fillColor=default;gradientColor=none;strokeColor=default;" vertex="1" parent="6QvlQIBep5d0M9I9-a26-1">
           <mxGeometry x="290" y="370" width="65" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-43" value="Linux" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;container=0;fillColor=default;gradientColor=none;strokeColor=default;" vertex="1" parent="6QvlQIBep5d0M9I9-a26-1">
@@ -356,7 +356,12 @@
           <mxGeometry x="1120" y="161.5" width="280" height="38.5" as="geometry" />
         </mxCell>
         <mxCell id="lfDrh3TQCBXrmz0Pdzv2-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="F3if_uiXnV5HRU1Du9Ce-1" source="F3if_uiXnV5HRU1Du9Ce-36" target="lfDrh3TQCBXrmz0Pdzv2-35">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="76" />
+              <mxPoint x="350" y="240" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-36" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;MxMTD系统平台&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;（Flash驱动库/测试用例库）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontSize=16;fontStyle=1" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
           <mxGeometry x="400" y="40" width="710" height="72" as="geometry" />
