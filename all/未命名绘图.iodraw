@@ -300,13 +300,13 @@
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#dae8fc;gradientColor=#7ea6e0;" edge="1" parent="1" source="Iusv1R_BgAyuJ9GwLuno-25" target="Iusv1R_BgAyuJ9GwLuno-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Iusv1R_BgAyuJ9GwLuno-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;container=0;" vertex="1" parent="1">
+        <mxCell id="Iusv1R_BgAyuJ9GwLuno-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;container=0;" vertex="1" parent="1">
           <mxGeometry x="142.5" y="490" width="505" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Iusv1R_BgAyuJ9GwLuno-42" value="UBoot" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#eeeeee;strokeColor=#36393d;fontSize=13;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;container=0;" vertex="1" parent="1">
+        <mxCell id="Iusv1R_BgAyuJ9GwLuno-42" value="UBoot" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontSize=13;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;container=0;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="152" y="500" width="65" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Iusv1R_BgAyuJ9GwLuno-43" value="Linux" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#eeeeee;strokeColor=#36393d;fontSize=13;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;container=0;" vertex="1" parent="1">
+        <mxCell id="Iusv1R_BgAyuJ9GwLuno-43" value="Linux" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontSize=13;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;container=0;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="222" y="500" width="65" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-44" value="Zephyr&lt;div style=&quot;font-size: 13px;&quot;&gt;RTOS&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontSize=13;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;container=0;fontColor=#333333;" vertex="1" parent="1">
