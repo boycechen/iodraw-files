@@ -330,9 +330,6 @@
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-49" value="FSP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;container=0;fillColor=default;gradientColor=none;strokeColor=default;" vertex="1" parent="Iusv1R_BgAyuJ9GwLuno-55">
           <mxGeometry x="521" y="340" width="65" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="bVQWK7TsxuZV816Q56Vt-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Iusv1R_BgAyuJ9GwLuno-55" source="3C_C7wKNF59Z6nHxpCFS-1" target="3C_C7wKNF59Z6nHxpCFS-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
