@@ -345,6 +345,9 @@
             <mxPoint x="80" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="lfDrh3TQCBXrmz0Pdzv2-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="F3if_uiXnV5HRU1Du9Ce-1" source="F3if_uiXnV5HRU1Du9Ce-4" target="lfDrh3TQCBXrmz0Pdzv2-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-4" value="Flash仿真阶段" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=13;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
           <mxGeometry x="40" y="148" width="160" height="40" as="geometry" />
         </mxCell>
