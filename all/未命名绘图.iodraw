@@ -540,9 +540,10 @@
         <mxCell id="avf6-rvNwamw24vskxUx-40" value="Bare Metal" style="whiteSpace=wrap;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
           <mxGeometry x="1120" y="300" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="avf6-rvNwamw24vskxUx-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="F3if_uiXnV5HRU1Du9Ce-1" source="avf6-rvNwamw24vskxUx-41">
+        <mxCell id="avf6-rvNwamw24vskxUx-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1260" y="440" as="targetPoint" />
+            <mxPoint x="1261" y="440" as="targetPoint" />
+            <mxPoint x="1371" y="360" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="avf6-rvNwamw24vskxUx-41" value="MxMTD&lt;div&gt;Driver&lt;/div&gt;" style="whiteSpace=wrap;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;strokeColor=#82b366;align=center;fontColor=default;fillColor=#d5e8d4;gradientColor=#97d077;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
