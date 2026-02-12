@@ -250,7 +250,7 @@
           <mxGeometry x="95" y="251" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-4" value="软件/系统平台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="275" y="400" width="240" height="60" as="geometry" />
+          <mxGeometry x="40" y="400" width="710" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Iusv1R_BgAyuJ9GwLuno-16" value="" style="group;fontSize=13;fillColor=#b1ddf0;strokeColor=#10739e;align=center;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="742" y="160" width="120" height="240" as="geometry" />
