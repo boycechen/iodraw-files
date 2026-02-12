@@ -336,7 +336,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="F3if_uiXnV5HRU1Du9Ce-1" value="&lt;font style=&quot;font-size: 17px;&quot; color=&quot;#23497d&quot;&gt;MxMTD在系统解决方案中的价值&lt;/font&gt;" style="swimlane;whiteSpace=wrap;fillColor=#dae8fc;swimlaneFillColor=#BAC8D3;fontFamily=Tahoma;html=1;strokeColor=#6c8ebf;opacity=50;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="80" width="1440" height="690" as="geometry">
+          <mxGeometry x="-360" y="90" width="1440" height="690" as="geometry">
             <mxRectangle x="20" y="20" width="80" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -421,7 +421,7 @@
           <mxGeometry x="380" y="320" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lfDrh3TQCBXrmz0Pdzv2-35" value="Bare Metal Driver" style="whiteSpace=wrap;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;strokeColor=#82b366;align=center;fontColor=default;fillColor=#d5e8d4;gradientColor=#97d077;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
-          <mxGeometry x="220" y="210" width="60" height="60" as="geometry" />
+          <mxGeometry x="230" y="210" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lfDrh3TQCBXrmz0Pdzv2-44" value="Flash&lt;div&gt;Chip&lt;/div&gt;" style="whiteSpace=wrap;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="F3if_uiXnV5HRU1Du9Ce-1">
           <mxGeometry x="405" y="210" width="60" height="60" as="geometry" />
