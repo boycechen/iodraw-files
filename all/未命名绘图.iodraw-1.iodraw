@@ -49,8 +49,8 @@
         <mxCell id="eTnsx61IPxcAui891IB_-16" value="双向网络通信" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="240" y="240" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eTnsx61IPxcAui891IB_-17" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="540" width="60" height="30" as="geometry" />
+        <mxCell id="eTnsx61IPxcAui891IB_-17" value="设备1证书" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="550" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
