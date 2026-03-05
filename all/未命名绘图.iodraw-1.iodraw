@@ -7,8 +7,8 @@
         <mxCell id="eTnsx61IPxcAui891IB_-1" value="服务器" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#ffffff;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="-90" y="190" width="170" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="eTnsx61IPxcAui891IB_-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#D0CEE2;fontColor=#1A1A1A;fillColor=#5D7F99;" vertex="1" parent="1">
-          <mxGeometry x="440" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="eTnsx61IPxcAui891IB_-2" value="TF卡设备端" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#D0CEE2;fontColor=#1A1A1A;fillColor=#5D7F99;" vertex="1" parent="1">
+          <mxGeometry x="550" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
