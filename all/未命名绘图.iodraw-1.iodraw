@@ -13,7 +13,7 @@
         <mxCell id="eTnsx61IPxcAui891IB_-3" value="TF卡设备端2" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#10739e;fillColor=#b1ddf0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="520" y="375" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eTnsx61IPxcAui891IB_-4" value="TF卡设备端" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#10739e;fillColor=#b1ddf0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="eTnsx61IPxcAui891IB_-4" value="TF卡设备端3" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#10739e;fillColor=#b1ddf0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="520" y="535" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eTnsx61IPxcAui891IB_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.994;entryY=0.809;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#736CA8;fontColor=#1A1A1A;" edge="1" parent="1" source="eTnsx61IPxcAui891IB_-4" target="eTnsx61IPxcAui891IB_-1">
@@ -48,6 +48,9 @@
         </mxCell>
         <mxCell id="eTnsx61IPxcAui891IB_-16" value="双向网络通信" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="240" y="240" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eTnsx61IPxcAui891IB_-17" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="540" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
