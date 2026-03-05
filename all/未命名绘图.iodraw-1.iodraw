@@ -7,14 +7,20 @@
         <mxCell id="eTnsx61IPxcAui891IB_-1" value="服务器" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#ffffff;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="-90" y="190" width="170" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="eTnsx61IPxcAui891IB_-2" value="TF卡设备端" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#10739e;fillColor=#b1ddf0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="eTnsx61IPxcAui891IB_-2" value="TF卡设备端" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#10739e;fillColor=#b1ddf0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="520" y="215" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eTnsx61IPxcAui891IB_-3" value="TF卡设备端" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#10739e;fillColor=#b1ddf0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="eTnsx61IPxcAui891IB_-3" value="TF卡设备端" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#10739e;fillColor=#b1ddf0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="520" y="375" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eTnsx61IPxcAui891IB_-4" value="TF卡设备端" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#10739e;fillColor=#b1ddf0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="eTnsx61IPxcAui891IB_-4" value="TF卡设备端" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#10739e;fillColor=#b1ddf0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="520" y="535" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eTnsx61IPxcAui891IB_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.994;entryY=0.809;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#736CA8;fontColor=#1A1A1A;" edge="1" parent="1" source="eTnsx61IPxcAui891IB_-4" target="eTnsx61IPxcAui891IB_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eTnsx61IPxcAui891IB_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1.018;entryY=0.902;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#736CA8;fontColor=#1A1A1A;" edge="1" parent="1" source="eTnsx61IPxcAui891IB_-4" target="eTnsx61IPxcAui891IB_-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
