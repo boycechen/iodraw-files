@@ -56,7 +56,7 @@
           <mxGeometry x="10" y="200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eTnsx61IPxcAui891IB_-20" value="服务器证书" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="530" y="280" width="90" height="20" as="geometry" />
+          <mxGeometry x="555" y="280" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
