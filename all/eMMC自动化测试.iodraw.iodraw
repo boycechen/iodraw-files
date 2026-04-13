@@ -49,19 +49,19 @@
           <mxGeometry x="-280" y="480" width="640" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="400" y="260" width="200" height="300" as="geometry" />
+          <mxGeometry x="420" y="340" width="200" height="300" as="geometry" />
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-3" value="eMMC Interface" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="422" y="512" width="156" height="30" as="geometry" />
+          <mxGeometry x="442" y="592" width="156" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-4" value="eMMC Controller" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="422" y="339" width="156" height="150" as="geometry" />
+          <mxGeometry x="442" y="419" width="156" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-5" value="FTL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="430" y="379" width="140" height="100" as="geometry" />
+          <mxGeometry x="450" y="459" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-6" value="NAND Array" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="422" y="277" width="158" height="40" as="geometry" />
+          <mxGeometry x="442" y="357" width="158" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-7" value="STM" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-260" y="489" width="70" height="60" as="geometry" />
@@ -112,7 +112,7 @@
           <mxGeometry x="-420" y="399" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="490" width="640" height="80" as="geometry" />
+          <mxGeometry x="-280" y="600" width="640" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
