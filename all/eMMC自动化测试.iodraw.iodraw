@@ -57,11 +57,11 @@
         <mxCell id="Y4i1LjVeLT86E8776pc0-4" value="eMMC Controller" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="422" y="340" width="156" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="Y4i1LjVeLT86E8776pc0-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y4i1LjVeLT86E8776pc0-5" value="FTL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="380" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-6" value="NAND Array" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="422" y="270" width="158" height="40" as="geometry" />
+          <mxGeometry x="422" y="280" width="158" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
