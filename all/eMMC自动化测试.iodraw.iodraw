@@ -102,6 +102,9 @@
         <mxCell id="Y4i1LjVeLT86E8776pc0-19" value="Windows" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="5" y="384" width="70" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Y4i1LjVeLT86E8776pc0-20" value="Android" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="93" y="384" width="70" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
