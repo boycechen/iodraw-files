@@ -96,8 +96,11 @@
         <mxCell id="Y4i1LjVeLT86E8776pc0-17" value="Uboot" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-172" y="384" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y4i1LjVeLT86E8776pc0-18" value="Uboot" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-162" y="394" width="70" height="60" as="geometry" />
+        <mxCell id="Y4i1LjVeLT86E8776pc0-18" value="Linux" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-83" y="384" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4i1LjVeLT86E8776pc0-19" value="Windows" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="5" y="384" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
