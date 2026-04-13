@@ -103,10 +103,10 @@
           <mxGeometry x="-15" y="304" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-19" value="Windows" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="123" y="304" width="90" height="60" as="geometry" />
+          <mxGeometry x="123" y="304" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-20" value="Android" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="260" y="304" width="90" height="60" as="geometry" />
+          <mxGeometry x="252" y="280" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
