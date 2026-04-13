@@ -56,9 +56,6 @@
         <mxCell id="Y4i1LjVeLT86E8776pc0-7" value="STM" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-267" y="510" width="70" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="Y4i1LjVeLT86E8776pc0-8" value="..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;labelPosition=center;verticalLabelPosition=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="5" y="510" width="70" height="39" as="geometry" />
-        </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-9" value="RockChip" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-176" y="510" width="70" height="39" as="geometry" />
         </mxCell>
@@ -154,6 +151,9 @@
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-48" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="10" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4i1LjVeLT86E8776pc0-49" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="11" y="270" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
