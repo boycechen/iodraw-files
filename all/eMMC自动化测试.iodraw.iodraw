@@ -91,22 +91,25 @@
           <mxGeometry x="22" y="37" width="158" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-27" value="操作系统/驱动" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#cce5ff;strokeColor=#36393d;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="250" width="640" height="80" as="geometry" />
+          <mxGeometry x="-280" y="360" width="640" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-16" value="RTOS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="280" width="90" height="40" as="geometry" />
+          <mxGeometry x="-270" y="390" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-17" value="Uboot" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-139" y="280" width="90" height="40" as="geometry" />
+          <mxGeometry x="-139" y="390" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-18" value="Linux" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-9" y="280" width="90" height="40" as="geometry" />
+          <mxGeometry x="-9" y="390" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-19" value="Windows" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="122" y="280" width="90" height="40" as="geometry" />
+          <mxGeometry x="122" y="390" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-20" value="Android" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="252" y="280" width="90" height="40" as="geometry" />
+          <mxGeometry x="252" y="390" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4i1LjVeLT86E8776pc0-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
