@@ -4,17 +4,23 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="m29J8mwZqwZgNBunLAST-2" value="系统应用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m29J8mwZqwZgNBunLAST-2" value="系统应用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="200" y="160" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m29J8mwZqwZgNBunLAST-3" value="文件系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m29J8mwZqwZgNBunLAST-3" value="文件系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="200" y="240" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m29J8mwZqwZgNBunLAST-4" value="驱动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m29J8mwZqwZgNBunLAST-4" value="驱动" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="200" y="320" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m29J8mwZqwZgNBunLAST-5" value="操作系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m29J8mwZqwZgNBunLAST-5" value="操作系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="200" y="400" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m29J8mwZqwZgNBunLAST-6" value="硬件平台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="200" y="480" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m29J8mwZqwZgNBunLAST-7" value="eMMC设备" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="200" y="565" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
