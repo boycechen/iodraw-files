@@ -45,6 +45,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Y4i1LjVeLT86E8776pc0-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="Y4i1LjVeLT86E8776pc0-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-1" value="硬件平台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#cce5ff;strokeColor=#36393d;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-280" y="480" width="640" height="80" as="geometry" />
         </mxCell>
