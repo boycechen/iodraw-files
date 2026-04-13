@@ -70,10 +70,10 @@
           <mxGeometry x="-83" y="520" width="70" height="29" as="geometry" />
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-16" value="RTOS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="240" width="90" height="60" as="geometry" />
+          <mxGeometry x="-262" y="410" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-17" value="Uboot" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-142" y="384" width="90" height="60" as="geometry" />
+          <mxGeometry x="-142" y="410" width="90" height="34" as="geometry" />
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-18" value="Linux" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-5" y="384" width="90" height="60" as="geometry" />
@@ -106,7 +106,7 @@
           <mxGeometry x="22" y="37" width="158" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-27" value="操作系统/驱动" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#cce5ff;strokeColor=#36393d;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="230" width="640" height="80" as="geometry" />
+          <mxGeometry x="-280" y="160" width="640" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
