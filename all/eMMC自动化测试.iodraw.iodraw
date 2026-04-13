@@ -74,25 +74,25 @@
         <mxCell id="Y4i1LjVeLT86E8776pc0-13" value="Allwinner" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-85" y="510" width="70" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="Y4i1LjVeLT86E8776pc0-26" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="Y4i1LjVeLT86E8776pc0-26" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="440" y="240" width="200" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="Y4i1LjVeLT86E8776pc0-25" value="" style="group;rounded=0;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;container=0;" vertex="1" connectable="0" parent="Y4i1LjVeLT86E8776pc0-26">
+        <mxCell id="Y4i1LjVeLT86E8776pc0-25" value="" style="group;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" connectable="0" parent="Y4i1LjVeLT86E8776pc0-26">
           <mxGeometry y="20" width="200" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="Y4i1LjVeLT86E8776pc0-2" value="eMMC设备" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#0d6bf8;strokeColor=#666666;container=0;verticalAlign=top;fontSize=14;" vertex="1" parent="Y4i1LjVeLT86E8776pc0-26">
+        <mxCell id="Y4i1LjVeLT86E8776pc0-2" value="eMMC设备" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;verticalAlign=top;fontSize=14;" vertex="1" parent="Y4i1LjVeLT86E8776pc0-26">
           <mxGeometry width="200" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="Y4i1LjVeLT86E8776pc0-3" value="eMMC Interface" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;container=0;" vertex="1" parent="Y4i1LjVeLT86E8776pc0-26">
+        <mxCell id="Y4i1LjVeLT86E8776pc0-3" value="eMMC Interface" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" parent="Y4i1LjVeLT86E8776pc0-26">
           <mxGeometry x="22" y="272" width="156" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Y4i1LjVeLT86E8776pc0-4" value="eMMC Controller" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#bac8d3;strokeColor=#23445d;container=0;" vertex="1" parent="Y4i1LjVeLT86E8776pc0-26">
+        <mxCell id="Y4i1LjVeLT86E8776pc0-4" value="eMMC Controller" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" parent="Y4i1LjVeLT86E8776pc0-26">
           <mxGeometry x="22" y="99" width="156" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="Y4i1LjVeLT86E8776pc0-5" value="FTL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;container=0;" vertex="1" parent="Y4i1LjVeLT86E8776pc0-26">
+        <mxCell id="Y4i1LjVeLT86E8776pc0-5" value="FTL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" parent="Y4i1LjVeLT86E8776pc0-26">
           <mxGeometry x="30" y="139" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Y4i1LjVeLT86E8776pc0-6" value="NAND Array" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;container=0;" vertex="1" parent="Y4i1LjVeLT86E8776pc0-26">
+        <mxCell id="Y4i1LjVeLT86E8776pc0-6" value="NAND Array" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" parent="Y4i1LjVeLT86E8776pc0-26">
           <mxGeometry x="22" y="37" width="158" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y4i1LjVeLT86E8776pc0-27" target="Y4i1LjVeLT86E8776pc0-1">
@@ -139,15 +139,6 @@
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-34" value="btrfs" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="257" y="270" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Y4i1LjVeLT86E8776pc0-36" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-167" y="270" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Y4i1LjVeLT86E8776pc0-37" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="187" y="270" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Y4i1LjVeLT86E8776pc0-38" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="11" y="270" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-42" value="车载多媒体" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-267" y="150" width="120" height="40" as="geometry" />
