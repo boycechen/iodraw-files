@@ -73,13 +73,13 @@
           <mxGeometry x="-280" y="384" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-17" value="Uboot" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-132" y="384" width="90" height="60" as="geometry" />
+          <mxGeometry x="-142" y="384" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-18" value="Linux" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-5" y="384" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-19" value="Windows" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="123" y="384" width="90" height="60" as="geometry" />
+          <mxGeometry x="133" y="384" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-20" value="Android" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="270" y="384" width="90" height="60" as="geometry" />
@@ -104,6 +104,9 @@
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-6" value="NAND Array" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;container=0;" vertex="1" parent="Y4i1LjVeLT86E8776pc0-26">
           <mxGeometry x="22" y="37" width="158" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4i1LjVeLT86E8776pc0-27" value="硬件平台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#cce5ff;strokeColor=#36393d;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="490" width="640" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
