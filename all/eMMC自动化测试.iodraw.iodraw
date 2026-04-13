@@ -56,7 +56,7 @@
         <mxCell id="Y4i1LjVeLT86E8776pc0-7" value="STM" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-260" y="510" width="70" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="Y4i1LjVeLT86E8776pc0-8" value="..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;verticalAlign=middle;fillColor=#cce5ff;strokeColor=#36393d;labelPosition=center;verticalLabelPosition=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="Y4i1LjVeLT86E8776pc0-8" value="..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;verticalAlign=middle;fillColor=#cce5ff;strokeColor=#36393d;labelPosition=center;verticalLabelPosition=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="5" y="510" width="70" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-9" value="RockChip" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
@@ -140,7 +140,7 @@
         <mxCell id="Y4i1LjVeLT86E8776pc0-34" value="btrfs" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="257" y="270" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y4i1LjVeLT86E8776pc0-36" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Y4i1LjVeLT86E8776pc0-36" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="-167" y="270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-37" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
