@@ -158,6 +158,9 @@
         <mxCell id="Y4i1LjVeLT86E8776pc0-45" value="电视盒子" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-1" y="150" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Y4i1LjVeLT86E8776pc0-46" value="电视盒子" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="9" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
