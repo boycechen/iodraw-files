@@ -123,13 +123,13 @@
           <mxGeometry x="-270" y="270" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-32" value="fat32" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="270" width="90" height="40" as="geometry" />
+          <mxGeometry x="-96" y="270" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-33" value="f2fs" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="10" y="270" width="90" height="40" as="geometry" />
+          <mxGeometry x="78" y="270" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-34" value="btrfs" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="150" y="270" width="90" height="40" as="geometry" />
+          <mxGeometry x="252" y="270" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
