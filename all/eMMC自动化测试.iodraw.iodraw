@@ -41,27 +41,27 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3KOcvrv-W0ia8qoJ_ayK" name="eMMC系统及应用架构">
-    <mxGraphModel dx="1434" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Y4i1LjVeLT86E8776pc0-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="500" width="170" height="60" as="geometry" />
+          <mxGeometry x="-100" y="500" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="260" width="200" height="300" as="geometry" />
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-3" value="eMMC Interface" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="422" y="515" width="156" height="30" as="geometry" />
+          <mxGeometry x="422" y="512" width="156" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-4" value="eMMC Controller" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="422" y="342" width="156" height="150" as="geometry" />
+          <mxGeometry x="422" y="339" width="156" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-5" value="FTL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="382" width="140" height="100" as="geometry" />
+          <mxGeometry x="430" y="379" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Y4i1LjVeLT86E8776pc0-6" value="NAND Array" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="422" y="280" width="158" height="40" as="geometry" />
+          <mxGeometry x="422" y="277" width="158" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
