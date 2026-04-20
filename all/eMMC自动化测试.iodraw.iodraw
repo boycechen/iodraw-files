@@ -172,13 +172,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XuWOSNHpHO48gEfeGEK6-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=1;strokeColor=#4D4D4D;" vertex="1" parent="XuWOSNHpHO48gEfeGEK6-1">
-          <mxGeometry x="10" y="100" width="241" height="325" as="geometry" />
+          <mxGeometry x="10" y="100" width="245" height="325" as="geometry" />
         </mxCell>
         <mxCell id="XuWOSNHpHO48gEfeGEK6-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="XuWOSNHpHO48gEfeGEK6-1" source="XuWOSNHpHO48gEfeGEK6-3" target="XuWOSNHpHO48gEfeGEK6-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XuWOSNHpHO48gEfeGEK6-3" value="&lt;b&gt;eMMC设备开卡&lt;/b&gt;" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=13;spacing=6;verticalAlign=middle;" vertex="1" parent="XuWOSNHpHO48gEfeGEK6-1">
-          <mxGeometry x="10" y="60" width="289" height="40" as="geometry" />
+          <mxGeometry x="10" y="60" width="245" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XuWOSNHpHO48gEfeGEK6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XuWOSNHpHO48gEfeGEK6-1" source="XuWOSNHpHO48gEfeGEK6-7" target="XuWOSNHpHO48gEfeGEK6-8">
           <mxGeometry relative="1" as="geometry" />
@@ -196,7 +196,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XuWOSNHpHO48gEfeGEK6-12" value="&lt;b&gt;硬件平台构建&lt;/b&gt;" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=13;spacing=6;verticalAlign=middle;" vertex="1" parent="XuWOSNHpHO48gEfeGEK6-1">
-          <mxGeometry x="354" y="60" width="289" height="40" as="geometry" />
+          <mxGeometry x="354" y="60" width="245" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XuWOSNHpHO48gEfeGEK6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XuWOSNHpHO48gEfeGEK6-1" source="XuWOSNHpHO48gEfeGEK6-14" target="XuWOSNHpHO48gEfeGEK6-15">
           <mxGeometry relative="1" as="geometry" />
