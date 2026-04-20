@@ -199,6 +199,9 @@
         <mxCell id="AzwCbDz_h1OZlUQANKXq-12" value="烧录bitstream" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="410" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="AzwCbDz_h1OZlUQANKXq-13" value="安装测试工具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="380" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
