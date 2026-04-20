@@ -220,7 +220,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XuWOSNHpHO48gEfeGEK6-18" value="&lt;b&gt;主机系统运行环境&lt;/b&gt;" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=13;spacing=6;verticalAlign=middle;" vertex="1" parent="XuWOSNHpHO48gEfeGEK6-1">
-          <mxGeometry x="700" y="60" width="289" height="40" as="geometry" />
+          <mxGeometry x="700" y="60" width="245" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XuWOSNHpHO48gEfeGEK6-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XuWOSNHpHO48gEfeGEK6-1" source="XuWOSNHpHO48gEfeGEK6-20" target="XuWOSNHpHO48gEfeGEK6-21">
           <mxGeometry relative="1" as="geometry" />
