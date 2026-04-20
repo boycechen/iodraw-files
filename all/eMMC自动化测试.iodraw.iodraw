@@ -196,7 +196,7 @@
         <mxCell id="AzwCbDz_h1OZlUQANKXq-11" value="测试用例执行" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="280" y="290" width="120" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="AzwCbDz_h1OZlUQANKXq-12" value="烧录bitstream" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AzwCbDz_h1OZlUQANKXq-12" value="烧录bitstream" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="-40" y="410" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
