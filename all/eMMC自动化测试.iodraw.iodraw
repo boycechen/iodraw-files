@@ -209,20 +209,20 @@
           <mxGeometry x="190" y="-1010" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XuWOSNHpHO48gEfeGEK6-1" value="eMMC系统级测试过程" style="swimlane;whiteSpace=wrap;fillColor=#dae8fc;swimlaneFillColor=#BAC8D3;fontFamily=Tahoma;html=1;strokeColor=#6c8ebf;opacity=50;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="-618" y="-940" width="1445" height="733" as="geometry">
+          <mxGeometry x="-620" y="-920" width="1445" height="733" as="geometry">
             <mxRectangle x="20" y="20" width="80" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XuWOSNHpHO48gEfeGEK6-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=1;strokeColor=#4D4D4D;" vertex="1" parent="XuWOSNHpHO48gEfeGEK6-1">
           <mxGeometry x="36" y="200" width="288" height="325" as="geometry" />
         </mxCell>
-        <mxCell id="XuWOSNHpHO48gEfeGEK6-3" value="&lt;b&gt;Flash仿真阶段&lt;/b&gt;" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=13;spacing=6;verticalAlign=middle;" vertex="1" parent="XuWOSNHpHO48gEfeGEK6-1">
+        <mxCell id="XuWOSNHpHO48gEfeGEK6-3" value="&lt;b&gt;eMMC设备准备&lt;/b&gt;" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=13;spacing=6;verticalAlign=middle;" vertex="1" parent="XuWOSNHpHO48gEfeGEK6-1">
           <mxGeometry x="36" y="160" width="289" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XuWOSNHpHO48gEfeGEK6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XuWOSNHpHO48gEfeGEK6-1" source="XuWOSNHpHO48gEfeGEK6-7" target="XuWOSNHpHO48gEfeGEK6-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XuWOSNHpHO48gEfeGEK6-7" value="Co-Simulation" style="whiteSpace=wrap;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="XuWOSNHpHO48gEfeGEK6-1">
+        <mxCell id="XuWOSNHpHO48gEfeGEK6-7" value="eMMC FW烧录" style="whiteSpace=wrap;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;fillColor=default;strokeColor=default;align=center;fontColor=default;" vertex="1" parent="XuWOSNHpHO48gEfeGEK6-1">
           <mxGeometry x="40" y="220" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XuWOSNHpHO48gEfeGEK6-8" value="Simulation Report" style="whiteSpace=wrap;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="XuWOSNHpHO48gEfeGEK6-1">
