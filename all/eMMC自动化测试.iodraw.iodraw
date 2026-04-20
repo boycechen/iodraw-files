@@ -294,7 +294,7 @@
         <mxCell id="XuWOSNHpHO48gEfeGEK6-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XuWOSNHpHO48gEfeGEK6-1" source="XuWOSNHpHO48gEfeGEK6-32" target="XuWOSNHpHO48gEfeGEK6-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XuWOSNHpHO48gEfeGEK6-32" value="安装测试工具/库" style="whiteSpace=wrap;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="XuWOSNHpHO48gEfeGEK6-1">
+        <mxCell id="XuWOSNHpHO48gEfeGEK6-32" value="Tina/Tina+测试用例-手动执行" style="whiteSpace=wrap;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="XuWOSNHpHO48gEfeGEK6-1">
           <mxGeometry x="1054" y="239" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XuWOSNHpHO48gEfeGEK6-33" value="测试用例移植" style="whiteSpace=wrap;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="XuWOSNHpHO48gEfeGEK6-1">
