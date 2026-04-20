@@ -166,7 +166,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AzwCbDz_h1OZlUQANKXq-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AzwCbDz_h1OZlUQANKXq-1" value="主机系统运行环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
