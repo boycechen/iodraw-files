@@ -166,55 +166,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AzwCbDz_h1OZlUQANKXq-1" value="主机系统运行环境" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="180" y="-1130" width="120" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="AzwCbDz_h1OZlUQANKXq-2" value="安装系统/驱动" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="-1090" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AzwCbDz_h1OZlUQANKXq-3" value="安装测试工具/库" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="-1050" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AzwCbDz_h1OZlUQANKXq-4" value="硬件平台构建" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="10" y="-1130" width="120" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="AzwCbDz_h1OZlUQANKXq-6" value="焊接eMMC设备" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="-1090" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AzwCbDz_h1OZlUQANKXq-7" value="焊接验证" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="-1050" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AzwCbDz_h1OZlUQANKXq-8" value="eMMC设备准备" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="-160" y="-1130" width="120" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="AzwCbDz_h1OZlUQANKXq-9" value="eMMC FW烧录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-150" y="-1090" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AzwCbDz_h1OZlUQANKXq-10" value="eMMC设备开卡" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-150" y="-1050" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AzwCbDz_h1OZlUQANKXq-11" value="测试用例执行" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="340" y="-1130" width="120" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="AzwCbDz_h1OZlUQANKXq-12" value="烧录bitstream" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="-1010" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AzwCbDz_h1OZlUQANKXq-14" value="Uboot测试用例" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="-1090" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AzwCbDz_h1OZlUQANKXq-15" value="Tina/Tina+测试用例" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="-1050" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AzwCbDz_h1OZlUQANKXq-16" value="测试用例移植" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="-1010" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="XuWOSNHpHO48gEfeGEK6-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;eMMC系统级测试过程&lt;/font&gt;" style="swimlane;whiteSpace=wrap;fillColor=#dae8fc;swimlaneFillColor=#BAC8D3;fontFamily=Tahoma;html=1;strokeColor=#6c8ebf;opacity=50;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="-710" y="-930" width="1510" height="580" as="geometry">
+          <mxGeometry x="-620" y="-1070" width="1370" height="580" as="geometry">
             <mxRectangle x="20" y="20" width="80" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XuWOSNHpHO48gEfeGEK6-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=1;strokeColor=#4D4D4D;" vertex="1" parent="XuWOSNHpHO48gEfeGEK6-1">
-          <mxGeometry x="10" y="100" width="288" height="325" as="geometry" />
+          <mxGeometry x="10" y="100" width="250" height="325" as="geometry" />
         </mxCell>
         <mxCell id="XuWOSNHpHO48gEfeGEK6-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="XuWOSNHpHO48gEfeGEK6-1" source="XuWOSNHpHO48gEfeGEK6-3" target="XuWOSNHpHO48gEfeGEK6-12">
           <mxGeometry relative="1" as="geometry" />
