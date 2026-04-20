@@ -175,6 +175,9 @@
         <mxCell id="AzwCbDz_h1OZlUQANKXq-3" value="安装测试工具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="370" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="AzwCbDz_h1OZlUQANKXq-4" value="主机系统运行环境" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="130" y="300" width="120" height="170" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
