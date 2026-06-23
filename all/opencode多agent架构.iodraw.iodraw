@@ -10,6 +10,12 @@
         <mxCell id="l6EQ2PlKh1czeLz1t_Q7-2" value="开发工程师Agent" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="60" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="l6EQ2PlKh1czeLz1t_Q7-3" value="测试工程师Agent" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="290" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l6EQ2PlKh1czeLz1t_Q7-4" value="测试工程师Agent" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="300" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
