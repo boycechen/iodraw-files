@@ -25,7 +25,7 @@
         <mxCell id="l6EQ2PlKh1czeLz1t_Q7-11" value="design.md" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="80" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l6EQ2PlKh1czeLz1t_Q7-14" value="运维工程师Agent" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="l6EQ2PlKh1czeLz1t_Q7-14" value="需求设计&lt;span style=&quot;background-color: initial;&quot;&gt;Agent&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="310" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
