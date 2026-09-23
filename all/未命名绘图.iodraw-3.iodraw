@@ -42,7 +42,7 @@
         <mxCell id="-NjjsE2ALZmmBqTLFoOy-50" value="Renesas平台" style="whiteSpace=wrap;strokeColor=none;fillColor=#d5e8d4;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=14;spacing=6;verticalAlign=middle;" vertex="1" parent="-NjjsE2ALZmmBqTLFoOy-1">
           <mxGeometry x="285" y="301" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-NjjsE2ALZmmBqTLFoOy-51" value="TFM/OPTEE" style="whiteSpace=wrap;strokeColor=none;fillColor=#d5e8d4;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=14;spacing=6;verticalAlign=middle;" vertex="1" parent="-NjjsE2ALZmmBqTLFoOy-1">
+        <mxCell id="-NjjsE2ALZmmBqTLFoOy-51" value="IoT Smart Lock" style="whiteSpace=wrap;strokeColor=none;fillColor=#d5e8d4;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=14;spacing=6;verticalAlign=middle;" vertex="1" parent="-NjjsE2ALZmmBqTLFoOy-1">
           <mxGeometry x="20" y="250" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-NjjsE2ALZmmBqTLFoOy-52" value="IoT Smart Watch" style="whiteSpace=wrap;strokeColor=none;fillColor=#d5e8d4;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=14;spacing=6;verticalAlign=middle;" vertex="1" parent="-NjjsE2ALZmmBqTLFoOy-1">
