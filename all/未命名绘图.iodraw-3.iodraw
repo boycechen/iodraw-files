@@ -9,7 +9,7 @@
             <mxRectangle x="20" y="20" width="80" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-NjjsE2ALZmmBqTLFoOy-4" value="硬件平台选型" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="-NjjsE2ALZmmBqTLFoOy-1">
+        <mxCell id="-NjjsE2ALZmmBqTLFoOy-4" value="Demo Board" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="-NjjsE2ALZmmBqTLFoOy-1">
           <mxGeometry x="20" y="71.5" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-NjjsE2ALZmmBqTLFoOy-9" value="开发板&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Datasheet学习&lt;/span&gt;" style="whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="-NjjsE2ALZmmBqTLFoOy-1">
