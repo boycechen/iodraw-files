@@ -25,7 +25,7 @@
           <mxGeometry x="550" y="71.5" width="224" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-NjjsE2ALZmmBqTLFoOy-44" value="NXP平台" style="whiteSpace=wrap;strokeColor=none;fillColor=#d5e8d4;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="-NjjsE2ALZmmBqTLFoOy-1">
-          <mxGeometry x="285" y="150" width="220" height="60" as="geometry" />
+          <mxGeometry x="285" y="150" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-NjjsE2ALZmmBqTLFoOy-45" value="TI平台" style="whiteSpace=wrap;strokeColor=none;fillColor=#d5e8d4;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="-NjjsE2ALZmmBqTLFoOy-1">
           <mxGeometry x="285" y="218.5" width="220" height="60" as="geometry" />
