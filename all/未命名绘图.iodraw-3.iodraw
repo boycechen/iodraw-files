@@ -43,10 +43,10 @@
           <mxGeometry x="285" y="358" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-NjjsE2ALZmmBqTLFoOy-51" value="Robot" style="whiteSpace=wrap;strokeColor=none;fillColor=#d5e8d4;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="-NjjsE2ALZmmBqTLFoOy-1">
-          <mxGeometry x="22" y="250" width="220" height="60" as="geometry" />
+          <mxGeometry x="20" y="250" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-NjjsE2ALZmmBqTLFoOy-52" value="IoT Smart Watch" style="whiteSpace=wrap;strokeColor=none;fillColor=#d5e8d4;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="-NjjsE2ALZmmBqTLFoOy-1">
-          <mxGeometry x="20" y="359" width="220" height="60" as="geometry" />
+          <mxGeometry x="20" y="309" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-NjjsE2ALZmmBqTLFoOy-54" value="Xilinx FPGA 平台" style="whiteSpace=wrap;strokeColor=none;fillColor=#d5e8d4;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="-NjjsE2ALZmmBqTLFoOy-1">
           <mxGeometry x="285" y="430" width="220" height="60" as="geometry" />
