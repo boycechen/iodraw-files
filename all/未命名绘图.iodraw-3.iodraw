@@ -9,7 +9,7 @@
             <mxRectangle x="20" y="20" width="80" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-NjjsE2ALZmmBqTLFoOy-4" value="Application" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="-NjjsE2ALZmmBqTLFoOy-1">
+        <mxCell id="-NjjsE2ALZmmBqTLFoOy-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Applicati&lt;/font&gt;on" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="-NjjsE2ALZmmBqTLFoOy-1">
           <mxGeometry x="20" y="71.5" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-NjjsE2ALZmmBqTLFoOy-9" value="Secure Boot" style="whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="-NjjsE2ALZmmBqTLFoOy-1">
@@ -18,7 +18,7 @@
         <mxCell id="-NjjsE2ALZmmBqTLFoOy-12" value="AI Glass" style="whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="-NjjsE2ALZmmBqTLFoOy-1">
           <mxGeometry x="20" y="218.5" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-NjjsE2ALZmmBqTLFoOy-42" value="Demo Board" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="-NjjsE2ALZmmBqTLFoOy-1">
+        <mxCell id="-NjjsE2ALZmmBqTLFoOy-42" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Demo Board&lt;/font&gt;" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="-NjjsE2ALZmmBqTLFoOy-1">
           <mxGeometry x="285" y="71.5" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-NjjsE2ALZmmBqTLFoOy-43" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;New Product&lt;/font&gt;" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="-NjjsE2ALZmmBqTLFoOy-1">
@@ -59,7 +59,7 @@
         <mxCell id="-NjjsE2ALZmmBqTLFoOy-40" value="eMMC兼容性/合规性测试" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="-NjjsE2ALZmmBqTLFoOy-36">
           <mxGeometry x="286" y="60" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-NjjsE2ALZmmBqTLFoOy-41" value="Flash/eMMC Tester" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="-NjjsE2ALZmmBqTLFoOy-36">
+        <mxCell id="-NjjsE2ALZmmBqTLFoOy-41" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Flash/eMMC Tester&lt;/font&gt;" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="-NjjsE2ALZmmBqTLFoOy-36">
           <mxGeometry x="550" y="60" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
