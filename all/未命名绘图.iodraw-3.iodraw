@@ -16,7 +16,7 @@
           <mxGeometry x="20" y="151.5" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-NjjsE2ALZmmBqTLFoOy-12" value="AI Glass" style="whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="-NjjsE2ALZmmBqTLFoOy-1">
-          <mxGeometry x="20" y="231.5" width="220" height="60" as="geometry" />
+          <mxGeometry x="20" y="220" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-NjjsE2ALZmmBqTLFoOy-42" value="Demo Board" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="-NjjsE2ALZmmBqTLFoOy-1">
           <mxGeometry x="285" y="71.5" width="220" height="60" as="geometry" />
@@ -28,10 +28,10 @@
           <mxGeometry x="285" y="151.5" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-NjjsE2ALZmmBqTLFoOy-45" value="TI平台" style="whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="-NjjsE2ALZmmBqTLFoOy-1">
-          <mxGeometry x="285" y="231.5" width="220" height="60" as="geometry" />
+          <mxGeometry x="285" y="220" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-NjjsE2ALZmmBqTLFoOy-46" value="TI平台" style="whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="-NjjsE2ALZmmBqTLFoOy-1">
-          <mxGeometry x="285" y="310" width="220" height="60" as="geometry" />
+          <mxGeometry x="285" y="289.5" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-NjjsE2ALZmmBqTLFoOy-36" value="&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#23497d&quot;&gt;PrecisionX自动化测试和验证&lt;/font&gt;" style="swimlane;whiteSpace=wrap;fillColor=none;swimlaneFillColor=#BAC8D3;fontColor=#2F5B7C;fontFamily=Tahoma;html=1;strokeColor=none;opacity=50;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="40" y="620" width="790" height="401.5" as="geometry">
