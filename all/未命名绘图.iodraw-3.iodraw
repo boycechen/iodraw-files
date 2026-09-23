@@ -26,9 +26,6 @@
         <mxCell id="-NjjsE2ALZmmBqTLFoOy-37" value="硬件平台选型" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="-NjjsE2ALZmmBqTLFoOy-36">
           <mxGeometry x="20" y="71.5" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-NjjsE2ALZmmBqTLFoOy-38" value="开发板&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Datasheet学习&lt;/span&gt;" style="whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="-NjjsE2ALZmmBqTLFoOy-36">
-          <mxGeometry x="20" y="151.5" width="220" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="-NjjsE2ALZmmBqTLFoOy-39" value="开发板采购&lt;div&gt;STM32/NXP/TI/RA&lt;/div&gt;" style="whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;shadow=0;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="-NjjsE2ALZmmBqTLFoOy-36">
           <mxGeometry x="20" y="231.5" width="220" height="60" as="geometry" />
         </mxCell>
