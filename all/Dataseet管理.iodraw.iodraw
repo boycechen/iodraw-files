@@ -11,10 +11,10 @@
           <mxGeometry x="240" y="210" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2b4UuaaErDt_yFJqc067-2" value="MDS系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="450" y="210" width="160" height="60" as="geometry" />
+          <mxGeometry x="480" y="210" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2b4UuaaErDt_yFJqc067-5" value="HQ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="90" y="215" width="60" height="50" as="geometry" />
+          <mxGeometry x="20" y="215" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
