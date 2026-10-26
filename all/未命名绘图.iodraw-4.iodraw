@@ -225,13 +225,13 @@
         <mxCell id="YQ6sVSVY7vbA-a1iWQVK-1" value="LLM(AI Model)&lt;div&gt;GPU(Nvidia RTX 4090)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=16;fontStyle=0;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-720" y="1601" width="600" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YQ6sVSVY7vbA-a1iWQVK-3" value="业务系统A" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=none;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="YQ6sVSVY7vbA-a1iWQVK-3" value="业务系统A" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=none;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="-20" y="1320" width="180" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="YQ6sVSVY7vbA-a1iWQVK-4" value="业务系统B" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=none;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="YQ6sVSVY7vbA-a1iWQVK-4" value="业务系统B" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=none;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="-20" y="1464.5" width="180" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="YQ6sVSVY7vbA-a1iWQVK-5" value="业务系统C" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=none;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="YQ6sVSVY7vbA-a1iWQVK-5" value="业务系统C" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=none;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="-20" y="1601" width="180" height="69" as="geometry" />
         </mxCell>
         <mxCell id="YQ6sVSVY7vbA-a1iWQVK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.133;entryY=0.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zQdKI0sGc6BDI322vlaj-1" target="zQdKI0sGc6BDI322vlaj-8">
