@@ -184,7 +184,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zQdKI0sGc6BDI322vlaj-8" value="Hermes AI智能体" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;fontStyle=0;fillColor=#dae8fc;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-560" y="1400" width="760" height="120" as="geometry" />
+          <mxGeometry x="-720" y="1430" width="760" height="120" as="geometry" />
         </mxCell>
         <mxCell id="pqinXIF4XV9A5pi64K03-1" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;AI技能&lt;/span&gt;" style="swimlane;html=1;startSize=30;rounded=1;fillColor=#fff6ea;strokeColor=#c47a1e;strokeWidth=1.2;swimlaneLine=0;arcSize=4" parent="1" vertex="1">
           <mxGeometry x="630" y="1250" width="260" height="140" as="geometry" />
@@ -202,31 +202,31 @@
           <mxGeometry x="140" y="89.00377104377117" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="zQdKI0sGc6BDI322vlaj-1" value="业务系统A需求文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-560" y="1280" width="200" height="60" as="geometry" />
+          <mxGeometry x="-720" y="1310" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YQ6sVSVY7vbA-a1iWQVK-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zQdKI0sGc6BDI322vlaj-2" target="zQdKI0sGc6BDI322vlaj-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zQdKI0sGc6BDI322vlaj-2" value="业务系统B需求文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-280" y="1280" width="200" height="60" as="geometry" />
+          <mxGeometry x="-440" y="1310" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zQdKI0sGc6BDI322vlaj-3" value="业务系统C需求文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry y="1280" width="200" height="60" as="geometry" />
+          <mxGeometry x="-160" y="1310" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zQdKI0sGc6BDI322vlaj-4" value="AI技能库" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fillColor=#f5f5f5;fontStyle=0;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="-280" y="1440" width="200" height="60" as="geometry" />
+          <mxGeometry x="-440" y="1470" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zQdKI0sGc6BDI322vlaj-6" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;通用Web框架&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=0;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="-540" y="1440" width="200" height="60" as="geometry" />
+          <mxGeometry x="-700" y="1470" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zQdKI0sGc6BDI322vlaj-7" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;通用API组件&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=0;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="-20" y="1440" width="200" height="60" as="geometry" />
+          <mxGeometry x="-180" y="1470" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YQ6sVSVY7vbA-a1iWQVK-1" value="LLM/GPU(Nvidia RTX 4090)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=16;fontStyle=0;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-560" y="1560" width="760" height="70" as="geometry" />
+          <mxGeometry x="-720" y="1590" width="760" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YQ6sVSVY7vbA-a1iWQVK-3" value="业务系统A需求文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-560" y="1700" width="200" height="60" as="geometry" />
+          <mxGeometry x="150" y="1310" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YQ6sVSVY7vbA-a1iWQVK-4" value="业务系统B需求文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-280" y="1700" width="200" height="60" as="geometry" />
