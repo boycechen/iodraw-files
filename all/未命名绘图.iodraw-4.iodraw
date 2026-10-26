@@ -229,7 +229,7 @@
           <mxGeometry x="-40" y="1450" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="YQ6sVSVY7vbA-a1iWQVK-5" value="业务系统C" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="1591" width="200" height="90" as="geometry" />
+          <mxGeometry x="-40" y="1591" width="180" height="69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
