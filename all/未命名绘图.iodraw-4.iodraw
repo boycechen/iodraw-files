@@ -219,6 +219,15 @@
         <mxCell id="YQ6sVSVY7vbA-a1iWQVK-1" value="LLM/GPU(Nvidia RTX 4090)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=16;fontStyle=0;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-560" y="1580" width="760" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="YQ6sVSVY7vbA-a1iWQVK-3" value="业务系统A需求文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="1290" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YQ6sVSVY7vbA-a1iWQVK-4" value="业务系统B需求文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="1290" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YQ6sVSVY7vbA-a1iWQVK-5" value="业务系统C需求文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1290" width="200" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
