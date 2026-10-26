@@ -217,7 +217,7 @@
           <mxGeometry x="100" y="1400" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YQ6sVSVY7vbA-a1iWQVK-1" value="Hermes AI智能体" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;fontStyle=0;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-430" y="1370" width="760" height="120" as="geometry" />
+          <mxGeometry x="-440" y="1540" width="760" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
