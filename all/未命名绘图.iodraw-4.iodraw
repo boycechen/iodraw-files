@@ -222,14 +222,14 @@
         <mxCell id="YQ6sVSVY7vbA-a1iWQVK-1" value="LLM/GPU(Nvidia RTX 4090)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=16;fontStyle=0;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-720" y="1610" width="600" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YQ6sVSVY7vbA-a1iWQVK-3" value="业务系统A需求文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="YQ6sVSVY7vbA-a1iWQVK-3" value="业务系统A" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-40" y="1320" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YQ6sVSVY7vbA-a1iWQVK-4" value="业务系统B需求文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1460" width="200" height="60" as="geometry" />
+          <mxGeometry x="-40" y="1470" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YQ6sVSVY7vbA-a1iWQVK-5" value="业务系统C需求文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1595" width="200" height="60" as="geometry" />
+          <mxGeometry x="-40" y="1620" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
