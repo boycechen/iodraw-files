@@ -204,7 +204,7 @@
         <mxCell id="zQdKI0sGc6BDI322vlaj-1" value="业务系统A需求文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-720" y="1320" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YQ6sVSVY7vbA-a1iWQVK-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zQdKI0sGc6BDI322vlaj-2" target="zQdKI0sGc6BDI322vlaj-8">
+        <mxCell id="YQ6sVSVY7vbA-a1iWQVK-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.091;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zQdKI0sGc6BDI322vlaj-2" target="zQdKI0sGc6BDI322vlaj-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zQdKI0sGc6BDI322vlaj-2" value="业务系统B需求文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=none;" parent="1" vertex="1">
@@ -237,8 +237,10 @@
         <mxCell id="YQ6sVSVY7vbA-a1iWQVK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.133;entryY=0.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zQdKI0sGc6BDI322vlaj-1" target="zQdKI0sGc6BDI322vlaj-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YQ6sVSVY7vbA-a1iWQVK-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.868;entryY=0.045;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zQdKI0sGc6BDI322vlaj-3" target="zQdKI0sGc6BDI322vlaj-8">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="YQ6sVSVY7vbA-a1iWQVK-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zQdKI0sGc6BDI322vlaj-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-199" y="1435" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
